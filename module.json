@@ -1,0 +1,37 @@
+{
+    "id": "fvtt-cyberpunk-red-ko",
+    "title": "Cyberpunk red 한국어 번역 [CPR : korean translation]",
+    "description": "사이버펑크 레드 한국어 번역 모듈입니다.",
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "authors": [
+        {
+            "name": "park-se-jun"
+        }
+    ],
+    "esmodules": [
+        "babele.js"
+    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "babele",
+                "type": "module"
+            },
+            {
+                "id": "lib-wrapper",
+                "type": "module"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "lang": "ko",
+            "name": "Korean",
+            "path": "lang/ko.json"
+        }
+    ]
+}

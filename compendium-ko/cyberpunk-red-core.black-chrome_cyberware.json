@@ -1,0 +1,174 @@
+{
+    "label": "사이버웨어",
+
+    "entries": {
+        "Reflex Co-Processor": {
+            "name": "Reflex 코프로세서",
+            "description": "<p>신경웨어. 총알을 피하기 위한 REF 요구 사항을 무효화합니다. (자세한 내용은 블랙 크롬 페이지 21 참조)</p>"
+        },
+        "Squirt Cyberfinger": {
+            "name": "사이버 핑거 시오후키",
+            "description": "<p>다양한 액체를 잡고 분사할 수 있는 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+        },
+        "Integrated Cyberdeck Upgrade": {
+            "name": "통합 Cyberdeck 업그레이드",
+            "description": "<p>Cyberdeck(유선)이 필요하며 cyberdeck에 추가 슬롯을 추가합니다. (자세한 내용은 블랙 크롬 페이지 19 참조)</p>"
+        },
+        "Standard Cyberfinger": {
+            "name": "표준 사이버 핑거",
+            "description": "<p>사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+        },
+        "Hardened Shielding (Cybereye)": {
+            "name": "강화 차폐(Cybereye)",
+            "description": "<p>눈과 설치된 옵션은 EMP 효과의 영향을 받지 않습니다. (자세한 내용은 블랙 크롬 페이지 19 참조)</p>"
+        },
+        "Popup Shotgun": {
+            "name": "팝업 산탄총",
+            "description": "<p>은폐 가능한 산탄총입니다. 스마트건 링크가 사전 설치된 상태로 제공됩니다. 활성화된 상태에서 이 손으로 아무것도 잡을 수 없습니다. (자세한 내용은 블랙 크롬 페이지 21 참조)</p>"
+        },
+        "Airhypo Cyberfinger": {
+            "name": "에어하이포 사이버핑거",
+            "description": "<p>@UUID를 가진 사이버핑거[Compendium.cyberpunk-red-core.gear.Th74cfC87RqEJKAb]{Airhypo}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+        },
+        "Sponsored Cybereye": {
+            "name": "후원 Cybereye",
+            "description": "<p>교체용 눈. Chyron은 사전 설치되어 제공됩니다*. 사용자가 무작위 광고를 무작위로 경험합니다. (자세한 내용은 블랙 크롬 페이지 22 참조)</p>\n<p>*설치 후 Chyron을 추가해야 합니다</p>."
+        },
+        "Ballpoint Cyberfinger": {
+            "name": "볼펜 Cyberfinger",
+            "description": "<p>안에 볼펜이 있는 Cyberfinger. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+        },
+        "Wirecutter/Scissors Cyberfingers": {
+            "name": "와이어커터/가위 Cyberfingers",
+            "description": "<p>가위 또는 와이어커터 역할을 할 수 있는 Cyberfinger 쌍. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+        },
+        "Trauma Response Nanomatrix": {
+            "name": "트라우마 반응 나노매트릭스",
+            "description": "<p>하루에 한 번 피부나 피하 갑옷을 완전히 수리할 수 있습니다. (자세한 내용은 블랙 크롬 22페이지를 참조하십시오.)</p>"
+        },
+        "Heuristic Health Monitor": {
+            "name": "휴리스틱 상태 모니터",
+            "description": "<p>바이오모니터가 필요합니다. HP를 한눈에 알 수 있습니다. (자세한 내용은 블랙 크롬 페이지 19 참조)</p>"
+        },
+        "Microphone Cyberfinger": {
+            "name": "마이크 Cyberfinger",
+            "description": "<p>숨겨진 녹음 장치를 들고 있는 Cyberfinger. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+        },
+        "Spray Paint Cyberfinger": {
+            "name": "스프레이 페인트 Cyberfinger",
+            "description": "<p>스프레이 캔으로 기능하는 Cyberfinger. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+        },
+        "Neo-Soviet Cyberarm": {
+            "name": "신소련 사이버 무기",
+            "description": "<p>소련의 사이버네틱 대체 무기. 프리 핸드가 사전 설치된 상태로 제공됩니다. -1 BODY 8+ 없이 암이 필요한 롤. (자세한 내용은 블랙 크롬 페이지 20 참조)</p>"
+        },
+        "Extra-Jointed Cyberleg Upgrade": {
+            "name": "Extra-Jointed Cyberleg 업그레이드",
+            "description": "<p>사이버 다리 관절을 쏠 수 있습니다. +2 곡예사. (자세한 내용은 블랙 크롬 18페이지 참조)</p>"
+        },
+        "Flashlight Cyberfinger": {
+            "name": "손전등 사이버 핑거",
+            "description": "<p>숨겨진 @UUID을 가진 사이버 핑거[Compendium.cyberpunk-red-core.gear.spgehgLv94vrH4Zo]{Flashlight}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+        },
+        "Implanted LF-001 SWAT Linear Frame": {
+            "name": "LF-001 SWAT 리니어 프레임 이식",
+            "description": "<p>BODY 스탯을 12로 증가시킵니다(HP 및 Wound Threshold 및 Death Save 조정). 등반과 수영에 대한 이동 페널티를 제거합니다. (자세한 내용은 블랙 크롬 53페이지를 참조하십시오.)</p>"
+        },
+        "Reinforced Cyberarm Upgrade": {
+            "name": "강화된 사이버암 업그레이드",
+            "description": "<p>사이버암 장비시 사용할 수 있습니다. 이것이 설치된 사이버 암은 부술 수 없습니다. (자세한 내용은 블랙 크롬 페이지 21-22 참조)</p>"
+        },
+        "Lockpick Cyberfinger": {
+            "name": "자물쇠 따개 사이버 핑거",
+            "description": "<p>숨겨진 @UUID을 들고 있는 사이버핑거[Compendium.cyberpunk-red-core.gear.vlhGpguIMioeA8fe]{Lock Picking Set}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+        },
+        "Explicit Memory Stimulator": {
+            "name": "명시적 메모리 자극기",
+            "description": "<p>칩웨어. 암기를 향상시킵니다. 설치 중 집중력 +2. (자세한 내용은 블랙 크롬 18페이지 참조)</p>"
+        },
+        "Dartgun Cyberfinger": {
+            "name": "다트건 사이버핑거",
+            "description": "<p>숨겨진 @UUID을 가진 사이버핑거[Compendium.cyberpunk-red-core.weapons.fSvkIl83Rsqd7O16]{Dartgun}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+        },
+        "Reinforced Cyberleg Upgrade": {
+            "name": "강화된 Cyberleg 업그레이드",
+            "description": "<p>Cyberleg가 필요합니다. 이것이 설치된 사이버 레그는 부술 수 없습니다. (자세한 내용은 블랙 크롬 페이지 21-22 참조)</p>"
+        },
+        "Flashbulb": {
+            "name": "섬광전구",
+            "description": "<p>사이버암 장비시 사용할 수 있습니다. 사용자는 25m/yds 내에 있는 모든 사람의 눈을 멀게 할 수 있습니다. (자세한 내용은 블랙 크롬 18페이지 참조)</p>"
+        },
+        "Bullet Storage Cyberfinger": {
+            "name": "불릿 스토리지 Cyberfinger",
+            "description": "<p>모든 유형의 탄약 2발을 숨기는 데 사용할 수 있는 Cyberfinger입니다. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+        },
+        "Modular Finger Cyberhand": {
+            "name": "모듈러 핑거 사이버 핸드",
+            "description": "<p>사이버암 장비시 사용할 수 있습니다. 5개의 사이버 핑거*가 함께 제공됩니다. (자세한 내용은 블랙 크롬 20페이지 참조)</p>\n<p>*설치 후 손가락을 추가해야 합니다</p>."
+        },
+        "Lighter Cyberfinger": {
+            "name": "더 가벼워진 사이버핑거",
+            "description": "<p>숨겨진 라이터를 들고 있는 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+        },
+        "RacerBracer": {
+            "name": "레이서 브레이서",
+            "description": "<p>내부 사이버웨어. 채찍질에 면역이 됩니다. (자세한 내용은 블랙 크롬 페이지 22 참조)</p>"
+        },
+        "One Shot Special Cyberfinger": {
+            "name": "원샷 스페셜 사이버핑거",
+            "description": "<p>숨겨진 경이 @UUID을 가진 사이버핑거[Compendium.cyberpunk-red-core.weapons.Y433cjlB1uVHPysk]{Heavy Pistol}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+        },
+        "Extra-Jointed Cyberarm Upgrade": {
+            "name": "Extra-Jointed Cyberarm 업그레이드",
+            "description": "<p>사이버암 관절을 사용할 수 있습니다. +2 곡예사. (자세한 내용은 블랙 크롬 18페이지 참조)</p>"
+        },
+        "Budget Chipware Socket": {
+            "name": "예산 칩웨어 소켓",
+            "description": "<p>칩웨어의 단일 설치를 위한 저렴한 소켓. 헤드가 손상되면 설치된 칩웨어가 30m/yds 떨어져 나가 파손될 수 있습니다(자세한 내용은 17페이지의 블랙 크롬 참조).</p>"
+        },
+        "Modular Finger Enthusiast Cyberhand": {
+            "name": "모듈러 핑거 매니아 Cyberhand",
+            "description": "<p>보그웨어. 사이버암 장비시 사용할 수 있습니다. 8개의 사이버 핑거*가 함께 제공됩니다. (자세한 내용은 블랙 크롬 18페이지 참조)</p>\n<p>*설치 후 손가락을 추가해야 합니다</p>."
+        },
+        "Implanted Fūma Kotarō Linear Frame": {
+            "name": "Fūma Kotarō 리니어 프레임 이식",
+            "description": "<ul>\n<li>인터페이스 플러그 2개 필요</li>\n<li>플러그가 꽂혀 있는 동안 BODY를 12로 증가</li>\n<li>HP나 데스세이브에는 영향을 주지 않습니다.</li>\n<li>은신 +2</li>\n</ul>\n<p>우수한 품질의 경이 중근접 무기 2종과 우수한 품질의 경이 경량 근접 무기 1종이 사전 설치되어 있습니다*.</p>\n<p>자세한 내용은 Black Chrome pg. 52를 참조하십시오.</p>\n<p><em>* 수동으로 추가해야 합니다.</em></p>"
+        },
+        "Popup Net Launcher": {
+            "name": "팝업 넷 런처",
+            "description": "<p>은폐 가능한 이국적인 그물 발사기. 활성화된 상태에서 이 손으로 아무것도 잡을 수 없습니다. (자세한 내용은 블랙 크롬 페이지 20-21 참조)</p>"
+        },
+        "Discount Cyberaudio Suite": {
+            "name": "할인 Cyberaudio 스위트",
+            "description": "<p>오디오 향상을 위한 저렴하고 부피가 큰 인터페이스. (자세한 내용은 블랙 크롬 17페이지 참조)</p>"
+        },
+        "Homing Tracer Cyberfinger": {
+            "name": "유도 트레이서 사이버 핑거",
+            "description": "<p>@UUID처럼 작동하는 사이버 핑거[Compendium.cyberpunk-red-core.gear.QIHx5oQOirtTlAaD]{Homing Tracer}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+        },
+        "Mini Air Supply Cyberfinger": {
+            "name": "미니 에어 서플라이 Cyberfinger",
+            "description": "<p>통합 공기 탱크가 있는 Cyberfinger. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+        },
+        "Laser Pointer Cyberfinger": {
+            "name": "레이저 포인터 Cyberfinger",
+            "description": "<p>숨겨진 레이저 포인터를 들고 있는 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+        },
+        "Hardened Shielding (Borgware)": {
+            "name": "강화 차폐(Borgware)",
+            "description": "<p>이것이 설치된 Borgware는 EMP 효과의 영향을받지 않습니다. (자세한 내용은 Black Chrome 17페이지 참조)</p>"
+        },
+        "Implanted Vermilion Linear Frame": {
+            "name": "이식된 주홍색 선형 프레임",
+            "description": "<p>BODY 스탯을 12로 증가시킵니다(HP 및 Wound Threshold 및 Death Save 조정). 점프에 대한 이동 페널티가 없습니다. 달리는 동안 이동이 6m/yds 증가합니다. (자세한 내용은 블랙 크롬 54페이지 참조)</p>"
+        },
+        "Hardened Shielding (Internal)": {
+            "name": "강화 차폐(내부)",
+            "description": "<p>내부 사이버웨어. 모든 내부 사이버웨어는 EMP 효과의 영향을 받지 않습니다. (자세한 내용은 블랙 크롬 페이지 20 참조)</p>"
+        },
+        "MechaMan Smart Glove": {
+            "name": "MechaMan 스마트 글러브",
+            "description": "<p>사용을 위해 뉴럴 링크가 필요한 피하 그립이 사전 설치*된 상태로 제공되는 자전거 장갑입니다. 사이버암 옵션 슬롯이 1개 있습니다. BC 페이지 37의 전체 항목 설명을 참조하십시오. <br><em>*Subdermal Grip은 장갑을 구입한 후 수동으로 추가하고 설치해야 합니다.</em></p>"
+        }
+    }
+}

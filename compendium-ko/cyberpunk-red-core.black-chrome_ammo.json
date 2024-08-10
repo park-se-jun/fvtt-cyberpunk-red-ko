@@ -1,0 +1,41 @@
+{
+    "label": "탄약",
+    "entries": {
+        "Doberman 500 Marking Scent": {
+            "name": "도베르만 500 마킹 향",
+            "description": "<p>공기권총용 특수 탄약 유형입니다. 자세한 내용은 블랙 크롬 44페이지를 참조하십시오.</p>"
+        },
+        "Grenade (Arachnid)": {
+            "name": "수류탄 (거미류)",
+            "description": "<p>매우 끈적끈적한 수류탄으로, 자세한 내용은 86페이지에서 확인할 수 있습니다.</p>"
+        },
+        "Arasaka Fire": {
+            "name": "아라사카 파이어",
+            "description": "<p>Arasaka Weeping Reaver Katana 전용 코팅.</p>\n<p>목표물에 불을 붙일 수 있으며 자세한 내용은 91 페이지에서 확인할 수 있습니다.</p>"
+        },
+        "Grenade (Security)": {
+            "name": "수류탄(보안)",
+            "description": "<p>엄폐물을 손상시키지 않는 장갑 관통 수류탄입니다. 전체 규칙은 89페이지에서 확인할 수 있습니다.</p>"
+        },
+        "Grenade (Shuriken Tornado)": {
+            "name": "수류탄 (수리검 토네이도)",
+            "description": "<p>말 그대로 수리검의 폭발. 두 번째 치명적 부상을 적용할 수 있으며 자세한 내용은 87페이지에서 확인할 수 있습니다.</p>"
+        },
+        "Arasaka Wound Salt": {
+            "name": "아라사카 상처 소금",
+            "description": "<p>Arasaka Weeping Reaver Katana 전용 코팅.</p>\n<p>두 번째 심각한 부상을 적용할 수 있으며 자세한 내용은 91페이지에서 확인할 수 있습니다.</p>"
+        },
+        "Rocks": {
+            "name": "바위",
+            "description": "<p>Nomad Rocker용 탄약.</p>"
+        },
+        "Net": {
+            "name": "그물",
+            "description": "<p>명중 시 대상을 붙잡는 그물 발사기의 그물입니다. (자세한 내용은 블랙 크롬 Pg. 20-21 참조)</p>"
+        },
+        "Arasaka Acid": {
+            "name": "아라사카 산",
+            "description": "<p>Arasaka Weeping Reaver Katana 전용 코팅.</p>"
+        }
+    }
+}

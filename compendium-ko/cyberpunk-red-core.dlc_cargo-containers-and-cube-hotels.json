@@ -1,0 +1,42 @@
+{
+    "label": "화물 컨테이너 및 큐브 호텔",
+
+    "entries": {
+        "Hidden Compartment": {
+            "name": "숨겨진 수납 공간",
+            "description": "<p>화물 컨테이너 내부에 숨겨진 작은 구획.</p>\n<ul>\n<li>15.25x30x7.5cm / 6x12x3인치</li>\n<li>DV15 Conceal/Reveal Object 스킬 체크로 찾을 수 있습니다.</li>\n</ul>"
+        },
+        "Koff Popper": {
+            "name": "코프 포퍼",
+            "description": "<p>Continental Brands Koff Popper는 필요한 유일한 특수 보온병입니다.</p>\n<ul>\n<li>Kof Pop 브루어가 내장 된 보온병</li>\n<li>237ml/8oz 용량입니다</li>.\n<li>오아시스 매장에서만 구매 가능</li>\n</ul>"
+        },
+        "Koff Pops": {
+            "name": "코프 팝스",
+            "description": "<p>콘티넨탈 브랜드 코프 포퍼와 함께 사용되는 코프 팝스.&nbsp;</p>\n<ul>\n<li>10 개 들</li>\n<li>Kibble 이상의 라이프스타일에 포함</li>됨\n</ul>"
+        },
+        "Second-hand Special Furniture Set": {
+            "name": "중고 특별 가구 세트",
+            "description": "<p>예쁘게 보이지 않을 수 있지만 작동합니다. 이 가구 세트는화물 컨테이너에 필요한 최소한의 것입니다.</p>"
+        },
+        "Cargo Container Chic Furniture Set": {
+            "name": "화물 컨테이너 세련된 가구 세트",
+            "description": "<p>저렴할 수 있지만 실제 가구입니다. 이것은 대부분의 화물 컨테이너에 대한 시작 가구 세트입니다.</p>"
+        },
+        "Smart Vanity": {
+            "name": "스마트 세면대",
+            "description": "<p>스마트 그루밍 스테이션. 필요한 모든 도구와 메이크업이 완비되어 있습니다.&nbsp;</p>"
+        },
+        "A Touch of Luxury Furniture Set": {
+            "name": "럭셔리한 가구 세트의 터치",
+            "description": "<p>이 가구 세트는화물 컨테이너를 거의 집처럼 느끼게합니다.</p>"
+        },
+        "Fire Safe": {
+            "name": "화재 안전",
+            "description": "<p>두꺼운 강철로 만든 작은 내화 사물함.</p>\n<ul>\n<li>50마력</li>\n<li>30cm / 1피트</li>\n<li>DV15 픽 락 스킬 체크로 선택할 수 있습니다.</li>\n</ul>"
+        },
+        "Wall Art": {
+            "name": "벽 예술",
+            "description": "<p>싸구려 포스터.</p>"
+        }
+    }
+}

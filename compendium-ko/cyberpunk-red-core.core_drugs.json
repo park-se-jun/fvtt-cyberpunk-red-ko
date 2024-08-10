@@ -1,0 +1,46 @@
+{
+    "label": "마약",
+
+    "entries": {
+        "Speedheal": {
+            "name": "스피드힐",
+            "description": "<p>대상에게 Speedheal을 주입하면 즉시 자신의 BODY에 WILL을 더한 만큼의 HP를 치유합니다. 이 효과는 치명상을 입은 대상에게는 적용되지 않으며, 하루에 한 번만 사용할 수 있습니다.</p>"
+        },
+        "Black Lace": {
+            "name": "블랙 레이스",
+            "description": "<p><strong>주요 효과</strong></p>\n<p>복용량은 24시간 동안 지속됩니다.</p>\n<ul>\n<li>사용자는 2d6 Humanity Loss를 굴리며, 이는 Secondary Effect 저장을 통과하면 반환됩니다.</li>\n<li>사용자는 지속 시간 동안 심각한 상처 상태를 무시</li>합니다.\n</ul>\n<p><br><strong>보조 효과(DV17)</strong></p>\n<p>복용량이 사라지면 사용자는 2차 DV에 대해 WILL + Resist Torture/Drugs + 1d10을 굴립니다.</p>\n<ul>\n<li>실패 시 인류 손실은 반환되지 않습니다</li>.\n<li>주요 효과를 경험하지 않는 한, REF -2</li>\n</ul>"
+        },
+        "Surge": {
+            "name": "큰 파도",
+            "description": "<p>대상에게 Surge를 주입하면 24시간 동안 수면 부족에 면역이 됩니다. 대상에게는 일주일에 한 번만 사용할 수 있습니다.</p>"
+        },
+        "Synthcoke": {
+            "name": "신스코크",
+            "description": "<p><strong>주요 효과</strong></p>\n<p>복용량은 4 시간 동안 지속됩니다.</p>\n<ul>\n<li>지속 시간 동안 +1 REF 1 포인트</li>\n<li>사용자는 때때로 편집증을 느낍니다.</li>\n</ul>\n<p><strong>보조 효과(DV15)</strong></p>\n<ul>\n<li>-2 REF Primary Effect가 없는 경우</li>\n<li>GM은 당신이 mor Synthcoke를 갈망할 때 알려줄 것입니다. 친절하게 역할극</li>\n</ul>"
+        },
+        "Smash": {
+            "name": "스매시",
+            "description": "<p><strong>주요 효과</strong></p>\n<p>복용량은 4 시간 동안 지속됩니다.</p>\n<ul>\n<li>사용자는 행복과 만족을 느낍니다.</li>\n<li>춤 / 곡예사 / 대화 / 인간 지각 / 설득 / 연기 +2</li>\n</ul>\n<p><strong>보조 효과(DV15)</strong></p>\n<ul>\n<li>-2 춤 / 곡예사 / 대화 / 인간 인식 / 설득 / 연기</li>\n<li>GM은 당신이 더 많은 스매시를 갈망할 때 알려줄 것입니다. 그에 따라 역할극을 하십시오.</li>\n</ul>"
+        },
+        "Blue Glass": {
+            "name": "블루 글라스",
+            "description": "<p><strong>주요 효과</strong></p>\n<p>복용량은 4 시간 동안 지속됩니다.</p>\n<ul>\n<li>GM은 때때로 사용자에게 색상의 소용돌이를 보고 있다고 말할 수 있습니다. 이 경우 사용자는 한 턴에 액션을 잃게 됩니다</li>\n</ul>\n<p><strong>보조 효과(DV15)</strong></p>\n<ul>\n<li>GM은 때때로 사용자에게 색상의 소용돌이를 보고 있다고 말할 수 있습니다. 이 경우 사용자는 한 턴에 액션을 잃게 됩니다</li>\n</ul>"
+        },
+        "Antibiotic": {
+            "name": "항생제",
+            "description": "<p>대상이 자연 치유 과정을 시작한 경우 항생제를 주입하면 일주일 동안 하루에 2의 체력을 추가로 치유합니다. 이 효과는 중첩되지 않습니다.</p>"
+        },
+        "Rapidetox": {
+            "name": "라피데톡스",
+            "description": "<p>표적에 Rapidetox를 주입하면 현재 영향을 받고 있는 약물, 독극물 또는 중독 물질의 영향을 제거할</p> 수 있습니다."
+        },
+        "Stim": {
+            "name": "자극제",
+            "description": "<p>대상에게 자극제를 주입하면 1시간 동안 중상을 입는 모든 페널티를 무시하게 됩니다. 하루에 한 번만 대상에게 사용할 수 있습니다.</p>"
+        },
+        "Boost": {
+            "name": "부스트",
+            "description": "<p><strong>주요 효과</strong></p>\n<p>복용량은 24시간 동안 지속됩니다.</p>\n<ul>\n<li>사용자는 지속 시간 동안 INT +2를 갖습니다</li>.\n</ul>\n<p><strong>보조 효과(DV17)</strong></p>\n<ul>\n<li>정수 -2</li>\n</ul>"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "label": "드론에 관한 모든 것",
+
+    "entries": {
+        "The Observer": {
+            "name": "관찰자",
+            "description": "<p>개인용 드론. 에이전트에 연결할 수 있는 비행 카메라입니다.</p>\n<p>Interface Red vol. 1의 62페이지에 있는 전체 설명을 참조하십시오.</p>"
+        },
+        "Savannah Panther": {
+            "name": "사바나 팬더",
+            "description": "<p>액티브 디펜스 드론.</p>\n<p>Interface Red vol. 1의 61페이지에 있는 전체 설명을 참조하십시오.</p>"
+        },
+        "The Transporter": {
+            "name": "트랜스포터",
+            "description": "<p>개인용 드론. 에이전트에 연결할 수 있는 트랜스포터 드론입니다.</p>\n<p>Interface Red vol. 1의 63페이지에 있는 전체 설명을 참조하십시오.</p>"
+        },
+        "My First GRAF3": {
+            "name": "나의 첫 GRAF3",
+            "description": "<p>개인용 드론. 에이전트에 연결할 수 있는 작은 GRAF3.</p>\n<p>Interface Red vol. 1의 61페이지에 있는 전체 설명을 참조하십시오.</p>"
+        },
+        "Savannah Eagle": {
+            "name": "사바나 이글",
+            "description": "<p>능동 공중 방어 드론.</p>\n<p>Interface Red vol. 1의 60페이지에 있는 fuill 설명을 참조하십시오.</p>"
+        },
+        "GRAF3": {
+            "name": "그라프3",
+            "description": "<p>쿼드레이프 건설 드론.</p>\n<p>Interface Red vol. 1의 59페이지에 있는 전체 설명을 참조하십시오.</p>"
+        }
+    }
+}

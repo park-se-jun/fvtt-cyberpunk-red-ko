@@ -1,0 +1,26 @@
+{
+    "label": "나이트 시티의 날씨",
+
+    "entries": {
+        "Cold-Weather Jacket Lining": {
+            "name": "방한 재킷 안감",
+            "description": "<p>모든 재킷 패션 아이템으로 업그레이드하세요. 사용자는 추운 온도로 인한 노출 페널티를 겪지 않습니다(CP:R pg 181).</p>"
+        },
+        "Hot-Weather Jacket Lining": {
+            "name": "핫 웨더 재킷 안감",
+            "description": "<p>모든 재킷 패션 아이템으로 업그레이드하세요. 사용자는 고온으로 인한 노출 페널티를 겪지 않습니다(CP:R pg 181).&nbsp;</p>\n<p>열파는 더 무거운 갑옷으로 인한 모든 페널티를 두 배로 늘립니다(NCW pg 5). &nbsp;예를 들어, 미디엄 아머잭을 가진 사용자는 히트웨이브 동안 MOVE, DEX, REF에 -4 페널티를 받습니다. 더운 날씨 재킷 안감은 이러한 페널티를 각각 1씩 감소시킵니다.</p>"
+        },
+        "Waterproof Jacket Lining": {
+            "name": "방수 재킷 안감",
+            "description": "<p dir=\"ltr\">모든 재킷 패션 아이템으로 업그레이드하세요. 우산과 기계적으로 유사하며 잠수복 역할을하지 않습니다.&nbsp;</p>\n<p>산성비로부터 보호합니다. 산성비에 1분 노출될 때마다 모든 방어구가 SP가 1 감소합니다(NCW pg 4).</p>\n<p dir=\"ltr\">+2 피의 비 노출로 인한 고문/약물 검사에 저항합니다. Severe Blood Rain은 검사 실패 시 Biotoxin 바이알의 효과를 적용합니다(NCW pg 4).</p>\n<p>&nbsp;</p>"
+        },
+        "Tactical Umbrella": {
+            "name": "전술 우산",
+            "description": "<p>튀어나오는 무기가 있는 스타일리시한 우산입니다. 품질이 좋지 않은 Exotic Heavy Pistol(총알 2개 용량)이 포함되어 있습니다.</p>\n<p>다양한 무기 모드: Tactical Umbrella에는 우수한 품질의 경이 중근접 무기도 포함되어 있습니다.</p>\n<p>일반 우산의 보호 기능 제공(NCW pg 6)</p>"
+        },
+        "Umbrella": {
+            "name": "우산",
+            "description": "<p>산성비로부터 보호합니다. 산성비에 1분 노출될 때마다 모든 방어구가 SP가 1 감소합니다(NCW pg 4).</p>\n<p>피의 비 노출로 인한 고문/약물 검사에 저항하려면 +2. Severe Blood Rain은 검사 실패 시 Biotoxin 바이알의 효과를 적용합니다(NCW pg 4).</p>"
+        }
+    }
+}

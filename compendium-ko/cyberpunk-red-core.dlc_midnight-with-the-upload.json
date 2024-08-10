@@ -1,0 +1,110 @@
+{
+    "label": "업로드와 함께 자정",
+
+    "entries": {
+        "Snaketrap": {
+            "name": "뱀덫",
+            "description": "<p>무작위로 설치된 프로그램을 파괴하는 첫 번째 공격(Asp, Raven 또는 Poison Flatline 효과)으로부터 보호합니다. 이 보호 효과는 뱀덫이 여러 개 설치되어 있어도 Netrun당 한 번만 사용할 수 있습니다.</p>"
+        },
+        "Defense Sequencer": {
+            "name": "디펜스 시퀀서",
+            "description": "<p>활성화된 방어구 프로그램이 약화되거나 파괴되면, 방어 시퀀서는 넷러너의 턴이 시작될 때 아직 사용되지 않은 방어구 프로그램을 활성화합니다.</p>"
+        },
+        "Microtech Assault": {
+            "name": "마이크로테크 어썰트",
+            "description": "<p>긴장을 풀고 Black ICE가 모든 무거운 물건을 들어 올리도록 하십시오.</p>\n<p>프로그램용 슬롯 4개, 하드웨어용 슬롯 5개.</p>\n<p>프로그램 슬롯은 Black ICE만 허용합니다.</p>"
+        },
+        "Smithy": {
+            "name": "대장장이",
+            "description": "<p dir=\"ltr\">무슨 일이든 준비하세요. Black ICE로 가득 찬 NET 아키텍처에 들어가면 Sword Program이 없습니까? 버튼을 눌러 쓸모없는 Banhammer를 교체하십시오.</p>\n<p dir=\"ltr\">Meat Action을 사용하여 설치된 모든 소드 프로그램을 Banhammer 프로그램으로 또는 그 반대로 변경하십시오.</p>\n<p>&nbsp;</p>"
+        },
+        "Microtech Warrior": {
+            "name": "마이크로테크 워리어",
+            "description": "<p>7 프로그램 전용 슬롯.</p>\n<p>넷러너는 잭인 직후 NET 액션 없이 하나의 아머 프로그램을 활성화할 수 있습니다.</p>"
+        },
+        "Feline Instinct": {
+            "name": "고양이의 본능",
+            "description": "<p>설치된 세이버투스 블랙 아이스가 프로그램을 파괴하면, 해당 세이버투스는 넷런 지속시간 동안 각 후속 공격에 추가로 1d6의 피해를 입힙니다.</p>"
+        },
+        "Microtech Scout": {
+            "name": "마이크로테크 스카우트",
+            "description": "<p>프로그램 또는 하드웨어를 위한 5개의 슬롯.</p>\n<p>Netrunner는 Jacking In 직후 NET Action 없이 Pathfinder를 굴릴 수 있습니다.</p>"
+        },
+        "Warlock's Book": {
+            "name": "워록의 책",
+            "description": "<p>적대적인 Netrunner를 해체하기 위한 환상적인 옵션입니다. 블랙 아이스가 없기를 바랍니다.</p>\n<p>프로그램 또는 하드웨어용 슬롯 6개, Flak 프로그램 전용 추가 슬롯 3개.</p>\n<p>Defender 프로그램 및 Black ICE에 대한 제한 사항: Flak 및 Asp만 모든 슬롯에 설치할 수 있습니다.</p>"
+        },
+        "Kirama Advanced Deck": {
+            "name": "키라마 어드밴스드 덱",
+            "description": "<p>가장 화려한 선택은 아니지만 Kirama의 최고의 Cyberdeck은 전문적으로 균형을 이루고 있으며 매우 실용적인 안전 기능을 제공합니다.</p>\n<p>프로그램 또는 하드웨어를 위한 5개의 슬롯.</p>\n<p>Netrunner는 Unsafe Jack Out으로 인한 부정적인 영향을 받지 않습니다.</p>"
+        },
+        "Kirama Training Deck": {
+            "name": "Kirama 트레이닝 덱",
+            "description": "<p>전형적인 스타터 Cyberdeck. 최소한의 하드웨어 사양으로 저렴한 가격.</p>\n<p>프로그램 전용 슬롯 5개.</p>\n<p>넷러너는 잭 인을 위해 액세스 포인트에 2m/yds 또는 더 가까워야 합니다. NET 전투로 인한 모든 뇌 손상이 두 배로 증가합니다.</p>"
+        },
+        "MicroMate": {
+            "name": "마이크로메이트",
+            "description": "<p>한 가지 속도만 알고 있는 Netrunners에게 적합합니다: 모든 공격, 항상. 그냥 맞지 마, 아플 거야. 많이.</p>\n<p>프로그램 또는 하드웨어를 위한 9개의 슬롯.</p>\n<p>슬롯은 Defender 프로그램을 허용하지 않습니다. NET 전투로 인한 모든 뇌 손상이 두 배로 증가합니다.</p>"
+        },
+        "Swifty Clean": {
+            "name": "스위프티 클린",
+            "description": "<p>넷러너는 한 번의 NET 액션에서 Cloak을 두 번 굴리고 더 높은 주사위를 굴릴 수 있습니다. 은폐는 Swifty Clean이 설치된 경우 Netrun당 한 번만 사용할 수 있습니다.</p>"
+        },
+        "Kerberos": {
+            "name": "커베로스",
+            "description": "<p dir=\"ltr\">당신의 라이벌에게 지옥의 불을 풀어주세요.</p>\n<p dir=\"ltr\">프로그램용 슬롯 6개, 하드웨어용 슬롯 5개.</p>\n<p dir=\"ltr\">프로그램 슬롯은 Hellhound Black ICE만 받습니다.</p>\n<p>&nbsp;</p>"
+        },
+        "Swamp Mist": {
+            "name": "늪 안개",
+            "description": "<p>위습 검은 얼음이 1d6 대신 2d6 피해를 입힙니다.</p>\n<p>Black ICE 프로그램 제한 사항: Wisps만 설치할 수 있습니다.</p>"
+        },
+        "Bushido Accelerator": {
+            "name": "Bushido 액셀러레이터",
+            "description": "<p>설치된 모든 Killer Black ICE에 +3 속도.</p>"
+        },
+        "Kirama Entry Deck": {
+            "name": "키라마 엔트리 덱",
+            "description": "<p>초보 Netrunners를 위한 저렴하고 균형 잡힌 Cyberdeck입니다. 적당한 하드웨어 사양으로 인해 제한되지만 Kirama의 주력 Cyberdecks의 고급 안전 기능을 유지합니다.</p>\n<p>프로그램 전용 슬롯 5개.</p>\n<p>각 프로그램 범주 중 하나만 한 번에 설치할 수 있습니다(공격자, 수비수, 부스터, 블랙 ICE). Netrunner는 Unsafe Jack Out으로 인한 부정적인 영향을 받지 않습니다.</p>"
+        },
+        "Parraline 6000": {
+            "name": "패럴린 6000",
+            "description": "<p>제한 사항이 없는 모든 하드웨어 옵션.</p>\n<p>3개의 프로그램 슬롯, 6개의 하드웨어 슬롯.</p>"
+        },
+        "Kestrel 2": {
+            "name": "황조롱이 2",
+            "description": "<p>블랙 아이스는 잡을 수 없는 것은 맞힐 수 없습니다.</p>\n<p>프로그램 전용 7개의 슬롯.</p>\n<p>Jacking In 직후 Netrunner는 NET 작업 없이 설치된 Speedy Gonzalvez 프로그램을 최대 2개까지 활성화할 수 있습니다.</p>"
+        },
+        "Aerie": {
+            "name": "둥지",
+            "description": "<p>설치된 각 Raven Black ICE는 데리징 대신 프로그램을 파괴합니다.</p>"
+        },
+        "Verdant Knight": {
+            "name": "신록의 기사",
+            "description": "<p>고전적인 검과 보드 Cyberdeck 빌드는 Black ICE에 매우 효과적입니다. 적대적인 Netrunner와 정면으로 맞설 계획은 없습니다.</p>\n<p>프로그램 전용 슬롯 9개.</p>\n<p>슬롯은 검 또는 방패 프로그램만 허용합니다.</p>"
+        },
+        "Phoenix": {
+            "name": "불사조",
+            "description": "<p>다시는 프로그램을 잃지 마십시오.</p>\n<p>프로그램 또는 하드웨어를 위한 6개의 슬롯.</p>\n<p>넷러닝 세션에서 파괴된 모든 프로그램은 안전한 잭 아웃 시 복원됩니다.</p>"
+        },
+        "Kaliya": {
+            "name": "칼리야",
+            "description": "<p>적대적인 Netrunner를 해체하기 위한 환상적인 옵션입니다. 블랙 아이스가 없기를 바랍니다.</p>\n<p>프로그램 또는 하드웨어용 슬롯 6개, Flak 프로그램 전용 추가 슬롯 3개.</p>\n<p>Defender 프로그램 및 Black ICE에 대한 제한 사항: Flak 및 Asp만 모든 슬롯에 설치할 수 있습니다.</p>"
+        },
+        "Perfume Shoppe": {
+            "name": "퍼퓸 샵",
+            "description": "<p>스컹크 블랙 ICE는 설치하는 데 1개의 옵션 슬롯만 사용합니다.</p>"
+        },
+        "Combat Recorder": {
+            "name": "컴뱃 레코더",
+            "description": "<p>실제 전투 데이터는 Black ICE 개발에 매우 중요합니다.</p>\n<p>동일한 NET 아키텍처의 다른 Netrunner가 데스 세이브에 실패하면 마지막 5분 동안의 Non-self-inculinating Netrun 전투 데이터가 Cyberdeck에 저장됩니다. 녹음은 50eb에 판매할 수 있습니다.</p>"
+        },
+        "Hummingbird": {
+            "name": "벌새",
+            "description": "<p>군더더기 없이 순수한 처리 능력만 있으면 됩니다.</p>\n<p>하드웨어 전용 슬롯 2개</p>\n<p>매 턴마다 NET 액션에 +1.</p>"
+        },
+        "Hangry Hangry Dragon": {
+            "name": "배고픈 배고픈 드래곤",
+            "description": "<p>설치된 드래곤 블랙 아이스가 프로그램을 파괴할 때마다 전체 REZ를 회복합니다.</p>"
+        }
+    }
+}

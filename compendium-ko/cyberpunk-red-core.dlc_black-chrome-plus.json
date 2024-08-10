@@ -1,0 +1,90 @@
+{
+    "label": "블랙 크롬 플러스",
+
+    "entries": {
+        "Molotov Cocktail": {
+            "name": "화염병",
+            "description": "<p>깨지기 쉬운 소이 수류탄. 치명적 불 대상 설정 (CP:R p.180 참조)</p>"
+        },
+        "Arrow (Junk)": {
+            "name": "화살(정크)",
+            "description": "<p>쓰레기 탄약; 저렴하지만 1SP 이상을 가진 사람에게 1d6 적은 피해를 입힙니다.</p>"
+        },
+        "Heavy Pistol (Junk)": {
+            "name": "헤비 피스톨 (정크)",
+            "description": "<p>쓰레기 탄약; 저렴하지만 SP가 1 이상인 사람에게 1d6 적은 피해를 입힙니다.</p>"
+        },
+        "Heavy Pistol (Small Game)": {
+            "name": "헤비 피스톨 (스몰 게임)",
+            "description": "<p>작은 게임 탄약; 사람들에게 좋지 않습니다. 피해를 2d6 덜 줍니다.</p>"
+        },
+        "SurvivalMaster": {
+            "name": "서바이벌마스터",
+            "description": "<p>경이 돌격 소총, 자동 발사 없음, 진압 사격 없음.</p>"
+        },
+        "Timeless WW1 Rifle to Pistol Conversion": {
+            "name": "시대를 초월한 WW1 소총에서 권총으로 변환",
+            "description": "<p>품질이 좋지 않은 매우 무거운 권총.</p>\n<p>각 샷 사이의 볼트를 수동으로 재조정(한 번의 액션).</p>"
+        },
+        "Rifle (Small Game)": {
+            "name": "소총 (작은 게임)",
+            "description": "<p>작은 게임 탄약; 사람들에게 좋지 않습니다. 피해를 2d6 덜 줍니다.</p>"
+        },
+        "Medium Pistol (Junk)": {
+            "name": "중형 권총 (정크)",
+            "description": "<p>쓰레기 탄약; 저렴하지만 1SP 이상을 가진 사람에게 1d6 적은 피해를 입힙니다.</p>"
+        },
+        "SportMaster": {
+            "name": "스포츠마스터",
+            "description": "<p>사람이 아닌 재미를 위한 스포츠용 소총입니다. 소형 게임 탄약만 장전할 수 있으며 자동 발사 및 진압 사격을 할 수 없습니다.</p>"
+        },
+        "Big Dreem Rounds": {
+            "name": "빅 드림 라운드",
+            "description": "<p>Teen Dreem을 위한 맞춤형 탄약.</p>"
+        },
+        "Rifle (Junk)": {
+            "name": "소총 (정크)",
+            "description": "<p>쓰레기 탄약; 저렴하지만 1SP 이상을 가진 사람에게 1d6 적은 피해를 입힙니다.</p>"
+        },
+        "Scavenged Armor": {
+            "name": "청소된 갑옷",
+            "description": "<p>수리할 수 없는 폐품된 라이트 아머잭 방탄복 세트입니다. BC+의 전체 항목 설명 참조 4페이지.</p>"
+        },
+        "Bullet To Slug Adapter Casings": {
+            "name": "Bullet To Slug 어댑터 케이스",
+            "description": "<p>모든 총알을 산탄총 슬러그로 발사할 수 있도록 합니다.</p>\n<p>Bullet to Slug 어댑터 케이스 상자에는 10개의 케이스가 함께 제공됩니다.</p>\n<p>Action에 포함된 지그를 사용하여 10개의 어댑터에 10개의 총알을 로드할 수 있습니다. 손으로 장전하는 경우 총알 1발을 장전하는 데 액션이 필요합니다.</p>"
+        },
+        "Big Dreem": {
+            "name": "빅 드림",
+            "description": "<p>경이 기관단총. 자동 발사만 가능합니다. 무기를 떨어뜨려도 자동 발사는 계속됩니다.</p>"
+        },
+        "Very Heavy Pistol (Small Game)": {
+            "name": "매우 무거운 권총(소형 게임)",
+            "description": "<p>작은 게임 탄약; 사람들에게 좋지 않습니다. 피해를 2d6 덜 줍니다.</p>"
+        },
+        "Medium Pistol (Small Game)": {
+            "name": "중형 권총 (소형 게임)",
+            "description": "<p>작은 게임 탄약; 사람들에게 좋지 않습니다. 피해를 2d6 덜 줍니다.</p>"
+        },
+        "Solo of Fortune Bodypillow": {
+            "name": "솔로 오브 포츈 바디필로우",
+            "description": "<p>2020년대의 유명한 솔로(예: Morgan Blackhand, BoaBoa Weyland 또는 Adam Smasher)의 이미지가 있는 Bodypillow.</p>\n<p>20인치 x 54인치(50.8cm x 137.16cm), 상당히 큰 Adam Smasher 베개 제외.</p>"
+        },
+        "Hello Cutie 1TruLuv": {
+            "name": "헬로 큐티 1TruLuv",
+            "description": "<p>경이 저격소총. 기본이 아닌 탄약을 장전할 수 있습니다.</p>\n<p>저격 조준경과 적외선 야간 투시경*이 장착되어 있으며, 주인을 인식하고 대화할 수 있는 가짜 AI 여자친구가 포함된 내장 에이전트가 있습니다.</p>\n<p>잘 돌보고 정기적으로 사용하면 무기가 향상됩니다. 그것을 소홀히 하면 사과해야 합니다...</p>\n<p><em>* 이러한 업그레이드는 액터<br>에 추가한 후 수동으로 설치해야 합니다.</em></p>"
+        },
+        "Very Heavy Pistol (Junk)": {
+            "name": "매우 무거운 권총(정크)",
+            "description": "<p>쓰레기 탄약; 저렴하지만 1SP 이상을 가진 사람에게 1d6 적은 피해를 입힙니다.</p>"
+        },
+        "Piranha Smash": {
+            "name": "피라냐 스매시",
+            "description": "<p>스매시처럼 보이지만 라임 맛의 스매시입니다. 그리고 중독 위험이 낮습니다.</p>\n<p><strong>주요 효과</strong></p>\n<p>복용량은 4 시간 동안 지속됩니다.</p>\n<p>사용자는 행복과 만족감을 느끼며 다음 기술에 +2의 임시 수정자를 받습니다</p>\n<ul>\n<li>행동</li>\n<li>댄스</li>\n<li>곡예 사</li>\n<li>대화</li>\n<li>인간의 지각</li>\n<li>설득</li>\n</ul>\n<p><strong>보조 효과 (DV9)</strong></p>\n<p>복용량이 사라지면 사용자는 2차 DV에 대해 WILL + Resist Torture/Drugs + 1d10을 굴립니다.</p>\n<p>이 작업이 실패하면 다음 기술에 -2를 적용합니다</p>\n<ul>\n<li>행동</li>\n<li>댄스</li>\n<li>곡예 사</li>\n<li>대화</li>\n<li>인간의 지각</li>\n<li>설득</li>\n</ul>"
+        },
+        "Shotgun Slug (Junk)": {
+            "name": "산탄총 슬러그(정크)",
+            "description": "<p>쓰레기 탄약; 저렴하지만 1SP 이상을 가진 사람에게 1d6 적은 피해를 입힙니다.</p>"
+        }
+    }
+}

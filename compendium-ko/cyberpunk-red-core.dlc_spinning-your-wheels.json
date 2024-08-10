@@ -1,0 +1,74 @@
+{
+    "label": "당신의 휠을 굴리는것",
+
+    "entries": {
+        "Inline Skates": {
+            "name": "인라인 스케이트",
+            "description": "<p>그들은 롤러 스케이트 아기입니다! 런 액션을 사용할 때 모멘트가 4m/yds 증가하지만 사용자의 다리에 있는 모든 옵션의 사용은 중지됩니다. 물리적 작업이 -2에서 수행될 수 있습니다.</p>"
+        },
+        "Skateboard": {
+            "name": "스케이트보드",
+            "description": "<p>주변에서 가장 멋진 바퀴. 평지 또는 아래쪽 지면에서 Run Action을 사용할 때 모멘트가 4m/yds 증가합니다. 물리적 작업이 -2에서 수행될 수 있습니다.</p>"
+        },
+        "Smuggling Compartment": {
+            "name": "밀수 구획",
+            "description": "<p>프레임에 숨겨진 작은 저장 공간을 추가합니다.</p>\n<p>1인치 x 6인치(2.54cm x 15.24cm)</p>\n<p>DV17 Conceal/Reveal Object 검사를 검색합니다.</p>\n<p>이 업그레이드를 접이식 프레임으로 설치할 수 없습니다.</p>"
+        },
+        "Trailer": {
+            "name": "트레일러",
+            "description": "<p>작은화물 트레일러와 함께 후크.</p>\n<p>5피트 x 1.5피트(1.5m x 0.46m).</p>\n<p>트레일러를 부착 및 분리하려면 작업이 필요합니다.</p>"
+        },
+        "Folding Frame": {
+            "name": "접는 프레임",
+            "description": "<p>이제 자전거를 큰 여행 가방 크기로 접어 쉽게 운반하고 보관할 수 있습니다.</p>\n<p>이 업그레이드는 Enclosure, Reinforced Frame 또는 Smuggling Compartment 업그레이드와 함께 설치할 수 없습니다.</p>"
+        },
+        "Extended Seat": {
+            "name": "연장된 좌석",
+            "description": "<p>승객을 위한 좌석을 확보하는 elogated 안장.&nbsp;</p>"
+        },
+        "Security System": {
+            "name": "보안 시스템",
+            "description": "<p>자전거에 전기를 공급하기 위해 에이전트와 연결됩니다. 도둑은 DV13에 저항하거나, 고문/약물에 저항하거나, 자전거를 손을 뗏아야 합니다.</p>\n<p>자전거는 Nano-VIN에 등록되어 있습니다.</p>"
+        },
+        "Bottle Dynamo": {
+            "name": "보틀 다이나모",
+            "description": "<p>기계적 에너지를 전기로 변환하기 위한 자전거 바퀴의 발전기. 한 시간 안에 배터리 팩(예: 무기용)을 충전합니다.</p>"
+        },
+        "Gun Mount": {
+            "name": "건 마운트",
+            "description": "<p>돌격 소총, 중기관단총 또는 산탄총을 핸들바에 부착하고 발사 버튼을 부착할 수 있는 시스템입니다.</p>\n<p>앞으로만 쏜다.</p>\n<p>장착 및 분리에는 한 번의 작업이 필요합니다.</p>"
+        },
+        "Neon Lightning": {
+            "name": "네온 번개",
+            "description": "<p>자전거의 프레임과 바퀴에 있는 광섬유 조명.</p>\n<p>자전거 위나 근처에 있을 때 가벼운 문신으로 간주됩니다(+2 옷장 및 스타일 보너스 얻기)</p>"
+        },
+        "Stunt Frame": {
+            "name": "스턴트 프레임",
+            "description": "<p>자전거는 무게를 줄이고 기동성을 얻습니다.</p>\n<p>라이더는 라이딩과 기동을 할 때 육상 기술 검사에 +2 보너스를 얻습니다.</p>"
+        },
+        "Cycle Armor": {
+            "name": "사이클 아머",
+            "description": "<p>7 PS로 무장한 자전거.</p>\n<p>이 업그레이드를 설치하려면 먼저 Reinforced Frame 업그레이드가 필요합니다.</p>"
+        },
+        "Enclosure": {
+            "name": "울안",
+            "description": "<p>자전거는 유리 섬유와 플라스틱으로 덮인 몸체가 있는 세발자전거가 됩니다.</p>\n<p>이 업그레이드는 Folding Frame 업그레이드와 함께 설치할 수 없습니다.</p>"
+        },
+        "Bicycle": {
+            "name": "자전거",
+            "description": "--"
+        },
+        "Electric Pedal Assist": {
+            "name": "전기 페달 어시스트",
+            "description": "<p>페달을 밟고 속도를 높이며 피로를 줄이는 데 도움이 되는 전기 모터 시스템.</p>\n<p>최대 다음 BODY 레벨 속도 내러티브 속도 또는 라이더가 이미 최상위 계층에 있는 경우 +5MPH(8KPH).</p>\n<p>라이더는 탈 때 지구력 검사에 +4 보너스를 받습니다.</p>"
+        },
+        "Bulletproof Glass": {
+            "name": "방탄 유리",
+            "description": "<p>인클로저 유리의 HP가 7 증가합니다.</p>\n<p>이 업그레이드를 설치하려면 먼저 자전거를 인클로저 업그레이드해야 합니다.</p>"
+        },
+        "Reinforced Frame": {
+            "name": "강화 프레임",
+            "description": "<p>자전거의 저항력이 더 강해졌습니다: +5 SDP와 라이더는 BODY 11 이상이 될 수 있습니다.</p>\n<p>이 업그레이드를 Folding Frame Upgrade와 함께 설치할 수 없습니다.</p>"
+        }
+    }
+}
