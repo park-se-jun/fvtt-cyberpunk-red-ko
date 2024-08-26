@@ -28,7 +28,7 @@
         },
         "Airhypo Cyberfinger": {
             "name": "에어하이포 사이버핑거",
-            "description": "<p>@UUID를 가진 사이버핑거[Compendium.cyberpunk-red-core.gear.Th74cfC87RqEJKAb]{Airhypo}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+            "description": "<p>@UUID[Compendium.cyberpunk-red-core.gear.Th74cfC87RqEJKAb]{Airhypo}를 가진 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
         },
         "Sponsored Cybereye": {
             "name": "후원 Cybereye",
@@ -68,7 +68,7 @@
         },
         "Flashlight Cyberfinger": {
             "name": "손전등 사이버 핑거",
-            "description": "<p>숨겨진 @UUID을 가진 사이버 핑거[Compendium.cyberpunk-red-core.gear.spgehgLv94vrH4Zo]{Flashlight}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+            "description": "<p>숨겨진 @UUID[Compendium.cyberpunk-red-core.gear.spgehgLv94vrH4Zo]{Flashlight}을 가진 사이버 핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
         },
         "Implanted LF-001 SWAT Linear Frame": {
             "name": "LF-001 SWAT 리니어 프레임 이식",
@@ -80,7 +80,7 @@
         },
         "Lockpick Cyberfinger": {
             "name": "자물쇠 따개 사이버 핑거",
-            "description": "<p>숨겨진 @UUID을 들고 있는 사이버핑거[Compendium.cyberpunk-red-core.gear.vlhGpguIMioeA8fe]{Lock Picking Set}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+            "description": "<p>숨겨진 @UUID[Compendium.cyberpunk-red-core.gear.vlhGpguIMioeA8fe]{Lock Picking Set}을 들고 있는 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
         },
         "Explicit Memory Stimulator": {
             "name": "명시적 메모리 자극기",
@@ -88,7 +88,7 @@
         },
         "Dartgun Cyberfinger": {
             "name": "다트건 사이버핑거",
-            "description": "<p>숨겨진 @UUID을 가진 사이버핑거[Compendium.cyberpunk-red-core.weapons.fSvkIl83Rsqd7O16]{Dartgun}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
+            "description": "<p>숨겨진 @UUID[Compendium.cyberpunk-red-core.weapons.fSvkIl83Rsqd7O16]{Dartgun}을 가진 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 24페이지 참조)</p>"
         },
         "Reinforced Cyberleg Upgrade": {
             "name": "강화된 Cyberleg 업그레이드",
@@ -116,7 +116,7 @@
         },
         "One Shot Special Cyberfinger": {
             "name": "원샷 스페셜 사이버핑거",
-            "description": "<p>숨겨진 경이 @UUID을 가진 사이버핑거[Compendium.cyberpunk-red-core.weapons.Y433cjlB1uVHPysk]{Heavy Pistol}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
+            "description": "<p>숨겨진 경이 @UUID[Compendium.cyberpunk-red-core.weapons.Y433cjlB1uVHPysk]{Heavy Pistol}을 가진 사이버핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 26페이지 참조)</p>"
         },
         "Extra-Jointed Cyberarm Upgrade": {
             "name": "Extra-Jointed Cyberarm 업그레이드",
@@ -144,7 +144,7 @@
         },
         "Homing Tracer Cyberfinger": {
             "name": "유도 트레이서 사이버 핑거",
-            "description": "<p>@UUID처럼 작동하는 사이버 핑거[Compendium.cyberpunk-red-core.gear.QIHx5oQOirtTlAaD]{Homing Tracer}. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
+            "description": "<p>@UUID[Compendium.cyberpunk-red-core.gear.QIHx5oQOirtTlAaD]{Homing Tracer}처럼 작동하는 사이버 핑거. 모듈식 핑거 사이버핸드에만 설치할 수 있습니다. (자세한 내용은 블랙 크롬 25페이지 참조)</p>"
         },
         "Mini Air Supply Cyberfinger": {
             "name": "미니 에어 서플라이 Cyberfinger",
