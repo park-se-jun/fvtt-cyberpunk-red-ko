@@ -3,423 +3,423 @@
 
     "entries": {
         "Biomonitor": {
-            "name": "바이오모니터",
+            "_name": "바이오모니터",
             "description": "<p>바이탈 판독값을 보여주는 LED를 제공합니다. 에이전트에 연결할 수 있습니다. </p>"
         },
         "Quick Change Mount": {
-            "name": "퀵 체인지 마운트",
+            "_name": "퀵 체인지 마운트",
             "description": "<p>사이버암은 열린 소켓을 사용하여 분리하고 다시 부착(및 교체)할 수 있습니다. 모든 경우에 팔을 유지하십시오. </p>"
         },
         "Nasal Filters": {
-            "name": "비강 필터",
+            "_name": "비강 필터",
             "description": "<p>흡입 가능한 가스 또는 연기에 대한 내성을 제공합니다. </p>"
         },
         "Internal Agent": {
-            "name": "내부 에이전트",
+            "_name": "내부 에이전트",
             "description": "<p>내장 에이전트. 오디오만 가능하지만 다른 사이버 장비와 연결할 수 있습니다. </p>"
         },
         "Techscanner": {
-            "name": "테크스캐너",
+            "_name": "테크스캐너",
             "description": "<p>다양한 내장 가젯 및 도구가 포함되어 있습니다. 여러 스킬 체크에 +2 보너스를 제공합니다. </p>"
         },
         "Implanted Linear Frame ∑ (Sigma)": {
-            "name": "임플란트 리니어 프레임 ∑ (시그마)",
+            "_name": "임플란트 리니어 프레임 ∑ (시그마)",
             "description": "<p>BODY 스탯을 12로 증가(HP와 Wound Threshold 및 Death Save 조정)</p>"
         },
         "Medical Grade Cyberarm": {
-            "name": "의료용 사이버 암",
+            "_name": "의료용 사이버 암",
             "description": "<p>의료용 사이버 무기입니다. 옵션을 설치할 수 없습니다.</p>"
         },
         "Subdermal Grip": {
-            "name": "Subdermal 그립",
+            "_name": "Subdermal 그립",
             "description": "<p>Smartguns를 사용할 수 있는 손에 도금. 신경 링크가 필요합니다. </p>"
         },
         "MicroOptics": {
-            "name": "마이크로옵틱스",
+            "_name": "마이크로옵틱스",
             "description": "<p>최대 400배 확대를 제공합니다.</p>"
         },
         "Anti-Dazzle": {
-            "name": "안티 대즐",
+            "_name": "안티 대즐",
             "description": "<p>페어링해야 합니다. 눈부신 효과(예: 섬광탄)에 대한 면역을 제공합니다.</p>"
         },
         "Audio Recorder": {
-            "name": "오디오 레코더",
+            "_name": "오디오 레코더",
             "description": "<p>소리를 녹음합니다. 칩 또는 에이전트에 연결할 수 있습니다.  </p>"
         },
         "Popup Melee Weapon": {
-            "name": "팝업 근접 무기",
+            "_name": "팝업 근접 무기",
             "description": "<p>은폐 가능한 근접 무기입니다. 활성화된 상태에서 이 손으로 아무것도 잡을 수 없습니다. </p>"
         },
         "Medical Grade Cyberleg": {
-            "name": "의료용 Cyberleg",
+            "_name": "의료용 Cyberleg",
             "description": "<p>의료용 사이버 레그. 옵션을 설치할 수 없습니다.</p>"
         },
         "Voice Stress Analyzer": {
-            "name": "음성 스트레스 분석기",
+            "_name": "음성 스트레스 분석기",
             "description": "<p>인간의 지각 및 심문 검사에 +2를 제공합니다. 특수 거짓말 감지 모드를 활성화할 수 있습니다. </p>"
         },
         "Implanted Linear Frame β (Beta)": {
-            "name": "임플란트 리니어 프레임 β(베타)",
+            "_name": "임플란트 리니어 프레임 β(베타)",
             "description": "<p>BODY 스탯을 14로 증가(HP와 Wound Threshold 및 Death Save 조정)</p>"
         },
         "Chemskin": {
-            "name": "켐스킨",
+            "_name": "켐스킨",
             "description": "<p>+2 Techhair를 사용할 때 개인 손질도 가능합니다. 색조를 변경합니다.</p>"
         },
         "Big Knucks": {
-            "name": "빅 너넉스",
+            "_name": "빅 너넉스",
             "description": "<p>근접 무기로 사용할 수 있는 장갑 너클입니다. </p>"
         },
         "Radiation Detector": {
-            "name": "방사선 검출기",
+            "_name": "방사선 검출기",
             "description": "<p>푸른 빛으로 방사선을 표시합니다. 최대 범위는 100m/yds입니다.</p>"
         },
         "Amplified Hearing": {
-            "name": "증폭된 청력",
+            "_name": "증폭된 청력",
             "description": "<p>청력을 사용하는 인식 검사에 +2를 제공합니다.</p>"
         },
         "Mr. Studd Sexual Implant": {
-            "name": "Mr. 스터드 성적 임플란트",
+            "_name": "Mr. 스터드 성적 임플란트",
             "description": "<p>언제든지 준비되어 있습니다.</p>"
         },
         "Cyberleg": {
-            "name": "사이버레그",
+            "_name": "사이버레그",
             "description": "<p>사이버네틱 교체 다리. 무료 발이 함께 제공됩니다. </p>"
         },
         "Medscanner": {
-            "name": "메드스캐너",
+            "_name": "메드스캐너",
             "description": "<p>부상을 빠르게 평가할 수 있는 내장 의료 스캐너. 응급 처치 및 구급대원 기술 검사에 +2를 제공합니다.</p>"
         },
         "Difficult Skill Chip": {
-            "name": "고난도 스킬 칩",
+            "_name": "고난도 스킬 칩",
             "description": "<p>칩웨어. 설치된 동안 특정(x2) 기술에 값 3을 제공합니다(기술이 이미 3+가 아닌 경우). </p>"
         },
         "Standard Hand": {
-            "name": "표준 핸드",
+            "_name": "표준 핸드",
             "description": "<p>대부분의 경우 일반 핸드처럼 보입니다. </p>"
         },
         "Superchrome Covering (Cyber Arm)": {
-            "name": "Superchrome Covering(Cyber Arm)",
+            "_name": "Superchrome Covering(Cyber Arm)",
             "description": "<p>팔을 위한 메탈릭 코팅. 의상과 스타일에 +2를 제공합니다. </p>"
         },
         "Plastic Covering (Cyber Leg)": {
-            "name": "플라스틱 커버링(Cyber Leg)",
+            "_name": "플라스틱 커버링(Cyber Leg)",
             "description": "<p>다리를 위한 플라스틱 코팅의 일종입니다. </p>"
         },
         "Realskinn Covering (Cyber Arm)": {
-            "name": "Realskinn 커버링 (사이버 암)",
+            "_name": "Realskinn 커버링 (사이버 암)",
             "description": "<p>팔을 위한 인공 피부 타입. </p>"
         },
         "Independent Air Supply": {
-            "name": "독립적인 공기 공급",
+            "_name": "독립적인 공기 공급",
             "description": "<p>30분 동안 리필 가능한 통기성 공기. </p>"
         },
         "Wolvers": {
-            "name": "울버",
+            "_name": "울버",
             "description": "<p>손가락 관절에서 접히는 발톱은 헤비 근접 무기입니다. 숨길 수 있습니다. </p>"
         },
         "Popup Shield": {
-            "name": "팝업 쉴드",
+            "_name": "팝업 쉴드",
             "description": "<p>쉽게 뽑거나 수납할 수 있는 접이식 방탄 방패입니다. 활성화된 상태에서 이 손으로 아무것도 잡을 수 없습니다. </p>"
         },
         "Chipware Socket": {
-            "name": "칩웨어 소켓",
+            "_name": "칩웨어 소켓",
             "description": "<p>칩웨어 조각의 설치 및 제거를 위한 단일 소켓. </p>"
         },
         "Dartgun": {
-            "name": "다트건",
+            "_name": "다트건",
             "description": "<p>숨길 수 있는 단발 무기입니다. </p>"
         },
         "Virtuality": {
-            "name": "가상현실",
+            "_name": "가상현실",
             "description": "<p>페어링해야 합니다. 내장 가상 고글. </p>"
         },
         "Low Light/IR/UV": {
-            "name": "저조도/IR/UV",
+            "_name": "저조도/IR/UV",
             "description": "<p>페어링해야 합니다. 조명이나 안개/연기로 인한 시력 저하를 무시하십시오.</p>"
         },
         "MultiOptic Mount": {
-            "name": "다광학 마운트",
+            "_name": "다광학 마운트",
             "description": "<p>최대 5개의 사이버아이를 더 설치할 수 있습니다. Cybereyes는 별도로 판매됩니다. </p>"
         },
         "Plastic Covering (Cyber Arm)": {
-            "name": "플라스틱 커버링(Cyber Arm)",
+            "_name": "플라스틱 커버링(Cyber Arm)",
             "description": "<p>팔을 위한 플라스틱 코팅의 일종입니다. </p>"
         },
         "Scrambler/Descrambler": {
-            "name": "스크램블러/디스크램블러",
+            "_name": "스크램블러/디스크램블러",
             "description": "<p>전송을 인코딩 및 디코딩합니다.</p>"
         },
         "Skinwatch": {
-            "name": "스킨워치",
+            "_name": "스킨워치",
             "description": "<p>피부 속의 LED 시계.</p>"
         },
         "Vampyres": {
-            "name": "뱀파이어",
+            "_name": "뱀파이어",
             "description": "<p>뾰족한 이빨은 가벼운 근접 무기입니다. 독/독소를 사용할 수 있습니다. </p>"
         },
         "Radar/Sonar Implant": {
-            "name": "레이더/수중 음파 탐지기 임플란트",
+            "_name": "레이더/수중 음파 탐지기 임플란트",
             "description": "<p>주변 50m/yds를 스캔합니다. 엄폐물을 통해 작동하지 않습니다. </p>"
         },
         "Radar Detector": {
-            "name": "레이더 감지기",
+            "_name": "레이더 감지기",
             "description": "<p>반경 1마일 내에서 감지된 활성 레이더를 알립니다.</p>"
         },
         "Interface Plugs": {
-            "name": "인터페이스 플러그",
+            "_name": "인터페이스 플러그",
             "description": "<p>손목이나 머리에 플러그를 꽂아 핸즈프리로 기계/시스템에 연결할 수 있습니다. </p>"
         },
         "Grafted Muscle and Bone Lace": {
-            "name": "접목된 근육과 뼈 레이스",
+            "_name": "접목된 근육과 뼈 레이스",
             "description": "<p>몸체(및 관련 능력치)가 2 증가합니다. 스택. 최대 몸체 10개.</p>"
         },
         "Jump Booster": {
-            "name": "점프 부스터",
+            "_name": "점프 부스터",
             "description": "<p>내장된 유압 장치는 점프에 대한 페널티를 무효화합니다. 페어링해야 합니다. </p>"
         },
         "Shift Tacts": {
-            "name": "시프트 택트",
+            "_name": "시프트 택트",
             "description": "<p>눈 색깔을 변경합니다. 마음대로 활성화/비활성화할 수 있습니다. </p>"
         },
         "Subdermal Armor": {
-            "name": "Subdermal 갑옷",
+            "_name": "Subdermal 갑옷",
             "description": "<p>외부 기관 사이버웨어*. 머리 및 갑옷 SP11을 획득하고 하루에 1SP를 회복합니다. 방어력은 중첩되지 않습니다.</p>\n<p><em>* 사이버웨어 아머는 시스템에서 아머로 작동하지 않으므로, 추적할 캐릭터/무크에 \"Subdermal Armor\" 아이템을 추가해 주세요</em></p>."
         },
         "Toxin Binders": {
-            "name": "독소 바인더",
+            "_name": "독소 바인더",
             "description": "<p>고문/약물 검사에 저항하기 위해 +2를 제공합니다. </p>"
         },
         "Skate Foot": {
-            "name": "스케이트 발",
+            "_name": "스케이트 발",
             "description": "<p>달리는 동안 이동이 6m/yds 증가합니다. 페어링해야 합니다. </p>"
         },
         "Skill Chip": {
-            "name": "스킬 칩",
+            "_name": "스킬 칩",
             "description": "<p>칩웨어. 설치된 동안 특정 기술에 3 값을 제공합니다(기술이 이미 3+가 아닌 경우). </p>"
         },
         "Hardened Shielding (Cyber Leg)": {
-            "name": "강화 차폐(Cyber Leg)",
+            "_name": "강화 차폐(Cyber Leg)",
             "description": "<p>다리 및 설치된 옵션은 EMP 효과의 영향을 받지 않습니다. </p>"
         },
         "Cyberarm": {
-            "name": "사이버암",
+            "_name": "사이버암",
             "description": "<p>사이버네틱 대체품. 손이 자유롭습니다. </p>"
         },
         "Realskinn Covering (Cyber Leg)": {
-            "name": "Realskinn 커버링 (사이버 레그)",
+            "_name": "Realskinn 커버링 (사이버 레그)",
             "description": "<p>다리를 위한 인공 피부 타입. </p>"
         },
         "Popup Grenade Launcher": {
-            "name": "팝업 유탄 발사기",
+            "_name": "팝업 유탄 발사기",
             "description": "<p>은폐 가능한 일발 유탄 발사기입니다. 활성화된 상태에서 이 손으로 아무것도 잡을 수 없습니다. </p>"
         },
         "Braindance Recorder": {
-            "name": "브레인댄스 레코더",
+            "_name": "브레인댄스 레코더",
             "description": "<p>BD 재생을 위해 추억을 기록합니다. 미디어에 적합합니다.</p>"
         },
         "Sandevistan": {
-            "name": "산데비스탄",
+            "_name": "산데비스탄",
             "description": "<p>스피드웨어. 주도권 +3 1분 1시간의 재사용 대기시간.</p>"
         },
         "Chemical Analyzer": {
-            "name": "화학물질 분석기",
+            "_name": "화학물질 분석기",
             "description": "<p>칩웨어. 화학 물질이 무언가로 구성되어 있는지 테스트하십시오.</p>"
         },
         "Light Tattoo": {
-            "name": "가벼운 문신",
+            "_name": "가벼운 문신",
             "description": "<p>빛나는 문신. Wardrobe & Style에 +2 적어도 3 개가 설치된 경우.</p>"
         },
         "Standard Foot": {
-            "name": "표준 발",
+            "_name": "표준 발",
             "description": "<p>대부분의 경우 정상적인 발처럼 보입니다. </p>"
         },
         "Hidden Holster": {
-            "name": "숨겨진 홀스터",
+            "_name": "숨겨진 홀스터",
             "description": "<p>당신 안에 숨겨진 홀스터.</p>"
         },
         "Meat Arm": {
-            "name": "고기 팔",
+            "_name": "고기 팔",
             "description": "<p>일반 팔입니다. 이것은 표준 손과 같은 부착물 또는 일부 무기 및 도구를 설치된 유일한 부품으로 지원할 수 있습니다.</p>"
         },
         "Gills": {
-            "name": "아가미",
+            "_name": "아가미",
             "description": "<p>수중에서 숨을 쉴 수 있습니다. </p>"
         },
         "Cybersnake": {
-            "name": "사이버 스네이크",
+            "_name": "사이버 스네이크",
             "description": "<p>매우 무거운 근접 무기인 목뱀입니다.</p>"
         },
         "Image Enhance": {
-            "name": "이미지 향상",
+            "_name": "이미지 향상",
             "description": "<p>쌍을 이루어야 합니다. +2 Perception and Lip Reading 및 Conceal/Reveal Object when use sight(시력 사용 시 개체 숨기기/드러내기).</p>"
         },
         "MicroVideo": {
-            "name": "마이크로비디오",
+            "_name": "마이크로비디오",
             "description": "<p>칩이나 에이전트에 연결할 수 있는 눈 카메라. 미디어에 적합합니다. </p>"
         },
         "Cybereye": {
-            "name": "사이버아이",
+            "_name": "사이버아이",
             "description": "<p>인공 눈. Kiroshi Optics를 선택하십시오!</p>"
         },
         "Grip Foot": {
-            "name": "그립 발",
+            "_name": "그립 발",
             "description": "<p>수직 등반을 위한 견인력을 제공합니다. 페어링해야 합니다. </p>"
         },
         "Scratchers": {
-            "name": "스크래쳐",
+            "_name": "스크래쳐",
             "description": "<p>가벼운 근접 무기인 날카로운 손톱. 숨길 수 있습니다. </p>"
         },
         "Web Foot": {
-            "name": "웹 풋",
+            "_name": "웹 풋",
             "description": "<p>발가락 사이에 물갈퀴를 끼우면 수영을 할 수 있습니다. 페어링해야 합니다. </p>"
         },
         "Cyberdeck (Hardwired)": {
-            "name": "Cyberdeck(하드와이어드)",
+            "_name": "Cyberdeck(하드와이어드)",
             "description": "<p>빌트인 사이버덱. 항상 사용할 수 있습니다. </p>"
         },
         "Sensor Array": {
-            "name": "센서 어레이",
+            "_name": "센서 어레이",
             "description": "<p>최대 5개의 사이버 오디오 옵션을 더 설치할 수 있습니다. </p>"
         },
         "Memory Chip": {
-            "name": "메모리 칩",
+            "_name": "메모리 칩",
             "description": "<p>칩웨어. 데이터 스토리지. 당신의 두뇌를 위한 플래시 드라이브처럼. 안전하게 배출하십시오. </p>"
         },
         "Meat Leg": {
-            "name": "고기 다리",
+            "_name": "고기 다리",
             "description": "<p>일반 다리. 이것은 표준 발과 같은 부착물이나 Talon Foot과 같은 무기를 지원할 수 있습니다.</p>"
         },
         "Popup Ranged Weapon": {
-            "name": "팝업 원거리 무기",
+            "_name": "팝업 원거리 무기",
             "description": "<p>은폐 가능한 한손 원거리 무기입니다. 활성화된 상태에서 이 손으로 아무것도 잡을 수 없습니다. </p>"
         },
         "Tool Hand": {
-            "name": "툴 핸드",
+            "_name": "툴 핸드",
             "description": "<p>손에 있는 각 손가락에는 다른 도구가 있습니다. 기술자에게 좋습니다!</p>"
         },
         "Enhanced Antibodies": {
-            "name": "향상된 항체",
+            "_name": "향상된 항체",
             "description": "<p>휴식 중 자연 치유를 두 배로 늘립니다. </p>"
         },
         "Cyberaudio Suite": {
-            "name": "사이버오디오 스위트",
+            "_name": "사이버오디오 스위트",
             "description": "<p>오디오 향상을 위한 기본 인터페이스입니다.</p>"
         },
         "Color Shift": {
-            "name": "컬러 시프트",
+            "_name": "컬러 시프트",
             "description": "<p>무제한의 색상과 패턴으로 눈을 이동할 수 있습니다. </p>"
         },
         "Neural Link": {
-            "name": "뉴럴 링크",
+            "_name": "뉴럴 링크",
             "description": "<p>신경계에 대한 접근. </p>"
         },
         "Bug Detector": {
-            "name": "버그 감지기",
+            "_name": "버그 감지기",
             "description": "<p>2m/yds 이내의 버그 또는 탭을 알립니다.</p>"
         },
         "Subdermal Pocket": {
-            "name": "Subdermal 포켓",
+            "_name": "Subdermal 포켓",
             "description": "<p>2x4 인치 언더 스킨 포켓</p>"
         },
         "Shoulder Cam": {
-            "name": "숄더 캠",
+            "_name": "숄더 캠",
             "description": "<p>어깨에서 튀어나오는 수납형 카메라. 에이전트 또는 메모리 칩과 연결할 수 있습니다. </p>"
         },
         "Midnight Lady Sexual Implant": {
-            "name": "미드나잇 레이디 섹스 임플란트",
+            "_name": "미드나잇 레이디 섹스 임플란트",
             "description": "<p>세탁기로 세탁 가능.</p>"
         },
         "Talon Foot": {
-            "name": "발톱 발",
+            "_name": "발톱 발",
             "description": "<p>발에 끼우는 개폐식 칼날로 가벼운 근접 무기입니다. </p>"
         },
         "Artificial Shoulder Mount": {
-            "name": "인공 숄더 마운트",
+            "_name": "인공 숄더 마운트",
             "description": "<p>추가 사이버 암을 설치할 수 있습니다. </p>"
         },
         "Skin Weave": {
-            "name": "스킨 위브",
+            "_name": "스킨 위브",
             "description": "<p>외부 기관 사이버웨어*. 머리 및 갑옷 SP7 및 1SP/일 회복. 방어력은 중첩되지 않습니다.</p>\n<p><em>* 사이버웨어 아머는 시스템에서 아머로 작동하지 않으므로, 추적할 캐릭터/무크에 \"스킨 짜기\" 아이템을 추가해 주세요</em></p>."
         },
         "Kerenzikov": {
-            "name": "케렌지코프",
+            "_name": "케렌지코프",
             "description": "<p>스피드웨어. 지속: 주도권 +2. </p>"
         },
         "Hardened Shielding (Cyber Arm)": {
-            "name": "강화 차폐(사이버 암)",
+            "_name": "강화 차폐(사이버 암)",
             "description": "<p>arm 및 installed 옵션은 EMP 효과의 영향을 받지 않습니다. </p>"
         },
         "Homing Tracer": {
-            "name": "유도 트레이서",
+            "_name": "유도 트레이서",
             "description": "<p>최대 1마일까지 추적기의 오디오 추적. 교체품은 포함되어 있지 않습니다. </p>"
         },
         "AudioVox": {
-            "name": "오디오복스",
+            "_name": "오디오복스",
             "description": "<p>오토튠 신디사이저. 연기 및 악기 연주 체크에 +2를 제공합니다. </p>"
         },
         "Rippers": {
-            "name": "리퍼",
+            "_name": "리퍼",
             "description": "<p>매우 날카로운 손톱은 중형 근접 무기입니다. 숨길 수 있습니다. </p>"
         },
         "Techhair": {
-            "name": "테크헤어",
+            "_name": "테크헤어",
             "description": "<p>+2 켐스킨으로 손질. 머리카락을 바꾸는 색상.</p>"
         },
         "Olfactory Boost": {
-            "name": "후각 부스트",
+            "_name": "후각 부스트",
             "description": "<p>칩웨어. 냄새 추적 허용</p>"
         },
         "Chyron": {
-            "name": "시론",
+            "_name": "시론",
             "description": "<p>당신의 눈에 작은 화면. 지루한 순간을 위한 PIP(Picture-in-Picture)를 제공합니다. </p>"
         },
         "Superchrome Covering (Cyber Leg)": {
-            "name": "Superchrome Covering(사이버 레그)",
+            "_name": "Superchrome Covering(사이버 레그)",
             "description": "<p>다리를 위한 메탈릭 코팅. 의상과 스타일에 +2를 제공합니다. </p>"
         },
         "Contraceptive Implant": {
-            "name": "피임 임플란트",
+            "_name": "피임 임플란트",
             "description": "<p>원치 않는 임신을 예방합니다.</p>"
         },
         "Radio Communicator": {
-            "name": "라디오 커뮤니케이터",
+            "_name": "라디오 커뮤니케이터",
             "description": "<p>워키토키 내장. 1마일 범위.</p>"
         },
         "Slice 'N Dice": {
-            "name": "슬라이스 앤 다이스",
+            "_name": "슬라이스 앤 다이스",
             "description": "<p>모노필라멘트 배선은 중형 근접 무기입니다. 숨길 수 있습니다. </p>"
         },
         "TeleOptics": {
-            "name": "텔레옵틱스",
+            "_name": "텔레옵틱스",
             "description": "<p>최대 800m/yds의 눈 망원경. 50m 이상 떨어져 있는 경우 단발/조준 사격 +1.</p>"
         },
         "Pain Editor": {
-            "name": "통증 편집기",
+            "_name": "통증 편집기",
             "description": "<p>칩웨어. 중상을 입은 경우 페널티를 제거합니다.</p>"
         },
         "Grapple Hand": {
-            "name": "그래플 핸드",
+            "_name": "그래플 핸드",
             "description": "<p>손에 내장된 개폐식 갈고리.</p>"
         },
         "EMP Threading": {
-            "name": "EMP 스레딩",
+            "_name": "EMP 스레딩",
             "description": "<p>피부에 대한 PCB 효과.</p>"
         },
         "Targeting Scope": {
-            "name": "타겟팅 범위",
+            "_name": "타겟팅 범위",
             "description": "<p>조준 사격에 +1을 제공합니다.</p>"
         },
         "Radio Scanner/Music Player": {
-            "name": "라디오 스캐너/음악 플레이어",
+            "_name": "라디오 스캐너/음악 플레이어",
             "description": "<p>CitiNet 라디오 방송국을 청취하거나 로컬에 저장된 음악을 재생하십시오.</p>"
         },
         "Level Damper": {
-            "name": "레벨 댐퍼",
+            "_name": "레벨 댐퍼",
             "description": "<p>청각 장애나 갑작스러운 시끄러운 소음에 대한 면역력을 제공합니다. </p>"
         },
         "Tactile Boost": {
-            "name": "촉각 부스트",
+            "_name": "촉각 부스트",
             "description": "<p>칩웨어. 표면을 통해 최대 20m/yd 떨어진 곳에서 움직임을 감지할 수 있습니다.</p>"
         }
     }

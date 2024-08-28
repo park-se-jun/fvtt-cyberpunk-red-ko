@@ -3,207 +3,207 @@
 
     "entries": {
         "Mono-Katana": {
-            "name": "모노 카타나",
+            "_name": "모노 카타나",
             "description": "<p>양손 경이 매우 무거운 근접 무기. 올바른 사용자가 무기를 휘두르면 SP가 7 미만인 방어력을 무시합니다(자세한 내용은 92페이지 참조).</p>"
         },
         "Rhinocefist": {
-            "name": "코뿔소",
+            "_name": "코뿔소",
             "description": "<p>손에서 어깨까지 덮는 갑옷을 입은 대형 돌 끌 장갑. 인터페이스 플러그가 필요합니다. 파괴와 난투에 모두 사용할 수 있으며, 자세한 내용은 95페이지에서 확인할 수 있습니다.</p>"
         },
         "OUTLet Explosive": {
-            "name": "OUTLet 폭발물",
+            "_name": "OUTLet 폭발물",
             "description": "<p>전기 플러그 어댑터와 같은 폭발적인 모습. 전체 규칙은 89페이지에서 확인할 수 있습니다.</p>"
         },
         "Utility Tomahawk": {
-            "name": "유틸리티 토마호크",
+            "_name": "유틸리티 토마호크",
             "description": "<p>칼날과 창, 이 강철 및 복합 얼음 도끼는 얼음 벽을 오르는 동시에 전투에서 심각한 피해를 입히는 데 도움이 될 수 있습니다.</p>\n<p>근접 무기와 원거리 무기로 모두 사용할 수 있으며, 이에 대한 규칙은 101페이지에서 확인할 수 있습니다.</p>"
         },
         "Mono-Wakizashi": {
-            "name": "모노 와키자시",
+            "_name": "모노 와키자시",
             "description": "<p>한손 경이 헤비 근접 무기입니다. 올바른 사용자가 무기를 휘두르면 SP가 7 미만인 방어력을 무시합니다(자세한 내용은 93페이지 참조).</p>"
         },
         "KillChip 100 Micro-Bomb": {
-            "name": "KillChip 100 마이크로 폭탄",
+            "_name": "KillChip 100 마이크로 폭탄",
             "description": "<p>메모리 칩이지만 Neuralware에 연결하면 폭발합니다. 전체 규칙은 88페이지에서 확인할 수 있습니다.</p>"
         },
         "Superchrome® Glam Rifle": {
-            "name": "슈퍼크롬® 글램 라이플",
+            "_name": "슈퍼크롬® 글램 라이플",
             "description": "<p>Superchrome® Glam Rifle은 경이 돌격 소총입니다. 장착 시 사용자에게 옷장과 스타일에 +2 보너스를 제공합니다. 전체 규칙은 120페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Tommyknocker": {
-            "name": "토미노커",
+            "_name": "토미노커",
             "description": "<p>Tommyknocker는 Exotic, Very Heavy Pistol 및 Poor Quality Shotgun의 콤보입니다. 발사할 때 BODY 10을 또는 두 손에 들고 있어야 하며, 그렇지 않으면 사용자가 무기를 땅에 떨어뜨립니다. 전체 규칙은 123페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Magna Knuckles": {
-            "name": "마그나 너클즈",
+            "_name": "마그나 너클즈",
             "description": "<p>한손 경이 중형 근접 무기입니다. 사이버웨어를 비활성화할 수 있는 배터리 구동 EMP 효과, 자세한 내용은 96페이지에서 확인할 수 있습니다.</p>"
         },
         "Survivalist": {
-            "name": "생존주의자",
+            "_name": "생존주의자",
             "description": "<p>Eagletech Survivalist는 2-in-1 석궁 및 돌격 소총입니다. 자동 발사가 불가능합니다. 통합 저격 조준경*이 함께 제공됩니다. 전체 규칙은 103페이지의 Black Chrome에서 찾을 수 있습니다.</p>\n<p><em>*구매 후 수동으로 적용해야 합니다</em></p>."
         },
         "Tasmanskiy Klô": {
-            "name": "Tasmanskiy Klô",
+            "_name": "Tasmanskiy Klô",
             "description": "<p>컴뱃 글러브에 있는 큰 개폐식 칼날.&nbsp;</p>\n<p>우수한 품질의 이국적인 매우 무거운 근접 무기.</p>\n<p>자세한 내용은 99페이지에서 확인할 수 있습니다.</p>"
         },
         "E-TACK Public Defender": {
-            "name": "E-TACK 국선 변호인",
+            "_name": "E-TACK 국선 변호인",
             "description": "<p>Smartgun Link 부착물*이 함께 제공됩니다. 사용자는 그것을 작동하기 위해 Subdermal Grip이 필요합니다. 치명적 및 비치명적 모드가 있습니다.</p>\n<p>전체 규칙은 115페이지의 Black Chrome에서 찾을 수 있습니다.</p>\n<p><em>* 이 업그레이드는 수동으로 추가해야 합니다.</em></p>"
         },
         "Westwood": {
-            "name": "웨스트 우드",
+            "_name": "웨스트 우드",
             "description": "<p>Westwood는 매우 무거운 권총입니다. 6발의 사격 용량은 탄창 부착물로 업그레이드할 수 없습니다. 전체 규칙은 121페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Overlord Handcannon": {
-            "name": "대군주 핸드캐논",
+            "_name": "대군주 핸드캐논",
             "description": "<p>Overlord Handcannon은 ROF가 1인 저품질 경이 중권총입니다. 특정 상황에서 Facedowns에 +1 보너스를 줄 수 있습니다. 전체 규칙은 106페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Hades Multipurpose Assault Shotgun": {
-            "name": "Hades 다목적 돌격 산탄총",
+            "_name": "Hades 다목적 돌격 산탄총",
             "description": "<p>Hades 다목적 돌격 산탄총은 경이 산탄총입니다. 매거진에는 16개의 샷이 들어 있습니다. 전체 규칙은 109페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "BMG-500": {
-            "name": "비엠지-500",
+            "_name": "비엠지-500",
             "description": "<p>Techtronika Russia BMG-500은 500발의 탄창과 양각대가 있는 이국적인 돌격 소총입니다. BODY 11 이상이 필요합니다(장착되지 않은 경우). 전체 규칙은 122페이지의 Black Chrome에서 찾을 수 있습니다. <br><br></p>"
         },
         "Weeping Reaver Katana": {
-            "name": "수양 약탈자 카타나",
+            "_name": "수양 약탈자 카타나",
             "description": "<p>우수한 품질의 양손 이국적인 매우 무거운 근접 무기. 블레이드 코팅을 위한 3가지 용량의 특정 유체가 포함되어</p> 있습니다.\n<ul>\n<li>아라사카 불 (대상을 점화 할 수 있음)</li>\n<li>아라사카 산(갑옷 제거)</li>\n<li>아라사카 상처 소금 (두 번째 치명타 적용)</li>\n</ul>\n<p>전체 규칙은 91페이지에서 확인할 수 있습니다.</p>"
         },
         "Bubba Buster": {
-            "name": "부바 버스터",
+            "_name": "부바 버스터",
             "description": "<p>GunMart Bubba Buster는 품질이 낮은 경이 산탄총입니다. 1분에 3번 이상 발사하면 스스로 파괴됩니다. 전체 규칙은 106페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Mono-Guard": {
-            "name": "모노 가드",
+            "_name": "모노 가드",
             "description": "<p>모노와이어, 한손 경이 헤비 근접 무기.</p>\n<p>여러 가지 치명적인 부상을 적용할 수 있으며 자세한 내용은 96페이지에서 확인할 수 있습니다.</p>"
         },
         "Fox Dual Ammo Pistol": {
-            "name": "Fox Dual Ammo 권총",
+            "_name": "Fox Dual Ammo 권총",
             "description": "<p>Militech Fox Dual Ammo Pistol은 이국적인 중권총입니다. 전체 규칙은 113페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "M-04 Variable Assault": {
-            "name": "M-04 가변 어썰트",
+            "_name": "M-04 가변 어썰트",
             "description": "<p>Sternmeyer M-04 Variable Assault는 맞춤형 유탄 발사기가 있는 저품질 경이 돌격 소총입니다. 전체 규칙은 119페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Nomad Rocker": {
-            "name": "유목민 로커",
+            "_name": "유목민 로커",
             "description": "<p>Nomad Rocker는 바위를 발사하는 저품질 이국적인 매우 무거운 권총입니다. 이 무기의 탄약은 무료입니다. 전체 규칙은 115페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "White Hornet Tanto": {
-            "name": "화이트 호넷 탄토",
+            "_name": "화이트 호넷 탄토",
             "description": "<p>한손 경이 중형 근접 무기입니다. 대상을 죽지 않고 의식을 잃게 만들 수 있으며, 전체 규칙은 93페이지에서 찾을 수 있습니다.</p>"
         },
         "TechHammer": {
-            "name": "테크해머",
+            "_name": "테크해머",
             "description": "<p>KTech TechHammer는 경이 산탄총/로켓 발사기입니다. 전체 규칙은 110페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Rostović Kleaver": {
-            "name": "로스토비치 클리버",
+            "_name": "로스토비치 클리버",
             "description": "<p>양손 경이 매우 무거운 근접 무기. 배터리 팩을 사용하여 손상을 늘릴 수 있으며 자세한 내용은 94페이지에서 확인할 수 있습니다.</p>\n<p>사용하려면 BODY 11 이상이 필요합니다.</p>"
         },
         "Superchrome® Javelin": {
-            "name": "슈퍼크롬® 자벨린",
+            "_name": "슈퍼크롬® 자벨린",
             "description": "<p>Superchrome® Javelin은 경이 저격 소총입니다. 장착 시 사용자에게 의상과 스타일에 +2 보너스를 제공합니다. 전체 규칙은 120페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "ModFire 10X (Pistol)": {
-            "name": "ModFire 10X(권총)",
+            "_name": "ModFire 10X(권총)",
             "description": "<p>ModFire 10X는 경이 중권총입니다. 또한 사용자가 필요한 모든 부품을 가지고 있다는 가정 하에 경이 기관단총이나 경이 돌격 소총으로 변형할 수 있습니다. 전체 규칙은 114페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "GunMart Smart Special": {
-            "name": "건마트 스마트 스페셜",
+            "_name": "건마트 스마트 스페셜",
             "description": "<p>GunMart Smart Special은 Smartgun Link가 통합된 저품질 이국적인 중권총입니다. 전체 규칙은 108페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Mono-Star": {
-            "name": "모노 스타",
+            "_name": "모노 스타",
             "description": "<p>모노 수리검(Mono-Shuriken)으로, 구슬 중심에는 운동 모터와 태양 모터가 포함되어 있어 별이 스스로 회전하고 진동할 수 있습니다.</p>\n<p>근접 무기와 원거리 무기로 모두 사용할 수 있으며, 이에 대한 규칙은 101페이지에서 확인할 수 있습니다.</p>"
         },
         "Engage Rocket Launcher": {
-            "name": "로켓 발사기 교전",
+            "_name": "로켓 발사기 교전",
             "description": "<p>GunMart Engage 로켓 발사기는 품질이 낮은 경이 로켓 발사기입니다. 치명적 실패 시 또는 무기를 장전할 때 폭발합니다. 전체 규칙은 107페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Pursuit Security Bouncer": {
-            "name": "추격 보안 경비원",
+            "_name": "추격 보안 경비원",
             "description": "<p>배터리로 구동되는 장갑.</p>\n<p>한 손으로 사용하는 이국적인 조합으로 지휘봉과 전자레인지를 기절시킵니다.</p>\n<p>자세한 내용은 97페이지에서 확인할 수 있습니다.</p>"
         },
         "Faisal's Dead or Alive": {
-            "name": "파이살의 데드 오어 얼라이브",
+            "_name": "파이살의 데드 오어 얼라이브",
             "description": "<p>Faisal의 Dead Or Alive는 저품질 네트 런처가 통합된 저품질 경이 산탄총입니다. 전체 규칙은 104페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Crowd Buster": {
-            "name": "크라우드 버스터",
+            "_name": "크라우드 버스터",
             "description": "<p>Pursuit Security Inc. Crowd Buster는 독특한 대체 발사 모드를 가진 경이 돌격 소총입니다. 한 쌍의 자동 레벨 감쇠 귀 보호대*가 함께 제공됩니다. 전체 규칙은 116페이지의 Black Chrome에서 찾을 수 있습니다.</p>\n<p><em>*구매 후 수동으로 적용해야 합니다</em></p>."
         },
         "GunMart Special": {
-            "name": "건마트 스페셜",
+            "_name": "건마트 스페셜",
             "description": "<p>GunMart Special은 품질이 좋지 않은 이국적인 중권총입니다. 전체 규칙은 108페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "ModFire 10X (SMG)": {
-            "name": "모드파이어 10X (SMG)",
+            "_name": "모드파이어 10X (SMG)",
             "description": "<p>ModFire 10X는 경이 중권총입니다. 또한 사용자가 필요한 모든 부품을 가지고 있다는 가정 하에 경이 기관단총이나 경이 돌격 소총으로 변형할 수 있습니다. 전체 규칙은 114페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Superchrome® Sidearm": {
-            "name": "슈퍼크롬® 사이드암",
+            "_name": "슈퍼크롬® 사이드암",
             "description": "<p>Superchrome® Sidearm은 경이 매우 무거운 권총입니다. 장착 시 사용자에게 의상과 스타일에 +2 보너스를 제공합니다. 전체 규칙은 121페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Arasaka Prototype Variable Assault Rifle": {
-            "name": "아라사카 프로토타입 가변 돌격소총",
+            "_name": "아라사카 프로토타입 가변 돌격소총",
             "description": "<p>Arasaka Prototype Variable Assault Rifle은 우수한 품질의 경이 돌격 소총입니다. 모든 부품이 있다고 가정하면 다른 고유 레일건 모드를 사용할 수 있습니다. 전체 규칙은 102페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "ModFire 10X (Rifle)": {
-            "name": "ModFire 10X(소총)",
+            "_name": "ModFire 10X(소총)",
             "description": "<p>ModFire 10X는 경이 중권총입니다. 또한 사용자가 필요한 모든 부품을 가지고 있다는 가정 하에 경이 기관단총이나 경이 돌격 소총으로 변형할 수 있습니다. 전체 규칙은 114페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "TR-4 Detonator Fluid": {
-            "name": "TR-4 기폭 장치 유체",
+            "_name": "TR-4 기폭 장치 유체",
             "description": "<p>폭발하려면 연료 탱크 차량에 부어야 합니다. 전체 규칙은 90페이지에서 확인할 수 있습니다.</p>"
         },
         "Beast Shotgun": {
-            "name": "짐승 산탄총",
+            "_name": "짐승 산탄총",
             "description": "<p>Midnight Arms Beast 산탄총은 경이 산탄총입니다. 탄창에는 40발이 들어 있습니다. 발사 시 BODY 10 이상(장착되지 않은 경우)이 필요하며 그렇지 않으면 사용자가 결과를 겪게 됩니다. 전체 규칙은 111페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Perseus": {
-            "name": "페르세우스자리",
+            "_name": "페르세우스자리",
             "description": "<p>Militech Perseus는 우수한 품질의 이국적인 매우 무거운 권총입니다. 전체 규칙은 112페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Ulični Uništitelj (Street Destroyer)": {
-            "name": "Ulični Uništitelj (거리 파괴자)",
+            "_name": "Ulični Uništitelj (거리 파괴자)",
             "description": "<p>Rostović Ulični Uništitelj(Street Destroyer)는 품질이 낮은 경이 산탄총입니다. 매거진에는 3발만 담을 수 있습니다. 산탄총 포탄만 쏠 수 있습니다. 전체 규칙은 117페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Ranger Combat Boomerang": {
-            "name": "레인저 컴뱃 부메랑",
+            "_name": "레인저 컴뱃 부메랑",
             "description": "<p>한 손 경이 헤비 근접 공격처럼 작동하지만, 던져도 SP가 절반으로 감소합니다.</p>\n<p>내장 안내 시스템이 포함되어 있으며 자세한 내용은 100페이지에서 확인할 수 있습니다.</p>"
         },
         "Mono-Katana Solo Wolf and Bot": {
-            "name": "Mono-Katana 솔로 늑대와 봇",
+            "_name": "Mono-Katana 솔로 늑대와 봇",
             "description": "<p>품질이 좋지 않은 양손 이국적인 매우 무거운 근접 무기.</p>\n<p>Mono-Katana 싸구려 닮은꼴. 그것들을 구별하는 규칙은 92 페이지에서 찾을 수 있습니다.</p>"
         },
         "Hello Cutie Ultra-K8 Assault Pistol": {
-            "name": "헬로 큐티 울트라-K8 돌격 권총",
+            "_name": "헬로 큐티 울트라-K8 돌격 권총",
             "description": "<p>Sanroo Hello Cutie Ultra-K8 Assault Pistol은 우수한 품질의 Heavy SMG 모드를 갖춘 우수한 품질의 이국적인 매우 무거운 권총입니다. 전체 규칙은 118페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Micro Hydrogen Combustor": {
-            "name": "마이크로 수소 연소기",
+            "_name": "마이크로 수소 연소기",
             "description": "<p> 액체에 담근 후 폭발하는 작은 폭발물. 갑옷을 관통하고 큰 연기 구름을 생성합니다. </p> <p> 전체 규칙은 88페이지에서 확인할 수 있습니다. </p>"
         },
         "FangFist": {
-            "name": "송곳니 주먹",
+            "_name": "송곳니 주먹",
             "description": "<p>우수한 품질의 한 손 이국적인 중형 근접 무기.</p>\n<p>짧은 개폐식 칼날이 있는 장갑입니다.</p>\n<p>자세한 내용은 98페이지에서 확인할 수 있습니다.</p>"
         },
         "Door Cracker": {
-            "name": "도어 크래커",
+            "_name": "도어 크래커",
             "description": "<p>저렴한 폭발 아이템, 작은 효과 영역. 전체 규칙은 87페이지에서 확인할 수 있습니다.</p>"
         },
         "Pepper Shaker": {
-            "name": "페퍼 셰이커",
+            "_name": "페퍼 셰이커",
             "description": "<p>Federated Arms Pepper Shaker는 단발 사격 또는 조준 사격이 불가능한 경이 기관단총입니다. 자동 발사는 이 무기에 6발의 총알만 사용합니다. 전체 규칙은 105페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Mastiff SMG": {
-            "name": "마스티프 기관단총",
+            "_name": "마스티프 기관단총",
             "description": "<p>밀리테크 마스티프 기관단총은 경이 양손 기관단총이자 산탄총입니다. 전체 규칙은 113페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         },
         "Matchmaker": {
-            "name": "결혼 중매인",
+            "_name": "결혼 중매인",
             "description": "<p>Georgia Arms Matchmaker는 탄창에 한 발만 장전하는 저품질 경이 산탄총입니다. 전체 규칙은 105페이지의 Black Chrome에서 찾을 수 있습니다.</p>"
         }
     }

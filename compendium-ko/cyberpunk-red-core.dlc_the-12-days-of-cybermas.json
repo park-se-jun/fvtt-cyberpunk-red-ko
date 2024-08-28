@@ -3,59 +3,59 @@
 
     "entries": {
         "FleshWeave": {
-            "name": "살점짜기",
+            "_name": "살점짜기",
             "description": "<p>외부 본체 사이버웨어*. 머리와 몸통의 경우 7 SP. <br>고급 자가 치유 기능을 갖춘 스킨위브 아머입니다. 수십억 마리의 나노봇은 10분 휴식 후 FleshWeave(몸과 머리) 갑옷의 모든 손상을 수리합니다. 방어력은 중첩되지 않습니다.</p>\n<p><em>* 사이버웨어 아머는 시스템에서 아머로 작동하지 않으므로, 추적할 캐릭터/무크에 \"Sycust FleshWeave (아머)\" 아이템을 추가해 주세요</em></p>."
         },
         "OptiShield": {
-            "name": "옵티쉴드",
+            "_name": "옵티쉴드",
             "description": "<p>내장형 개폐식 거울 쉐이드. 액션으로 활성화되면, 사용자는 섬광탄과 같은 밝은 빛의 부정적인 효과에 영향을 받지 않습니다.</p>"
         },
         "Romanova Cyberlegs": {
-            "name": "로마노바 사이버레그",
+            "_name": "로마노바 사이버레그",
             "description": "<p>각 발뒤꿈치에 Talon Foot 블레이드가 통합된 하이 패션 Cyberlegs. 블레이드는 제거할 수 없습니다.</p>\n<p>한 쌍의 Cyberlegs, 양쪽 다리에 대해 1000eb. 각 다리에는 Cyberleg 또는 Cyberlimb 옵션을 위한 3개의 슬롯이 있습니다. 한 쌍의 다리에 대해 인간성 손실을 한 번 굴립니다. 각 다리는 별도의 심각한 부상을 입을 수 있으며 개별적으로 수리해야 합니다.</p>"
         },
         "ChainRipp": {
-            "name": "체인립",
+            "_name": "체인립",
             "description": "<p>배기 포트가 통합된 팝아웃 Cyberarm 전기톱. 작업 없이 배치 및 철회할 수 있습니다. 사용자는 블레이드를 뽑을 때 ChainRipp의 Cyberarm에 손을 사용할 수 없습니다.</p>\n<p>ChainRipp을 배치하면 액션으로 회전할 수 있으며 우수한 품질의 한손 경이 매우 무거운 근접 무기로 자격이 있습니다. ChainRipp은 액션으로 비활성화될 때까지 회전수 상태를 유지합니다.</p>\n<p>배치되었지만 회전하지 않은 상태에서 ChainRipp은 한손 매우 무거운 근접 무기입니다.</p>"
         },
         "Poser Chip": {
-            "name": "포저 칩",
+            "_name": "포저 칩",
             "description": "<p>칩웨어. 사용자가 사전 프로그래밍된 성격의 음성 패턴과 버릇을 쉽게 모방할 수 있습니다. Poser Gangs를 위한 표준 발행 사이버웨어.</p>\n<ul>\n<li>특정 성격을 모방할 때 연기 체크에 +4.</li>\n<li>설득력 있는 역할극으로 연기 체크에 +5.</li>\n</ul>\n<p>셀 수 없이 많은 시간의 유명인 영상으로 프로그래밍된 Poser Chips의 가격은 500eb입니다. 개인 개인의 10 + 시간 영상으로 프로그래밍 된보다 개인화 된 Poser Chips는 1000eb입니다.</p>"
         },
         "Gang Jazzler": {
-            "name": "갱 재즈러",
+            "_name": "갱 재즈러",
             "description": "<p>초크 액션을 사용하여 튀어나온 전기 바늘로 갈고리가 있는 대상을 찌릅니다. 대상은 피해를 입지 않지만 DV13 저항 고문/약물 검사를 해야 합니다. 점검에 실패하면 대상은 1분 동안 의식을 잃습니다.</p>\n<p>충전식 배터리 팩(50eb)으로 구동됩니다. 배터리 팩은 사용 후 1시간 동안 충전해야 합니다. Gang Jazzler와 배터리 팩을 숨기기 위해 검사가 필요하지 않습니다. 고기 팔에 있는 유일한 사이버웨어인 경우 해당 팔에 설치할 수 있습니다.</p>"
         },
         "Bug Eye": {
-            "name": "버그 아이",
+            "_name": "버그 아이",
             "description": "<p>옵션 슬롯이 있는 대형 곤충형 Cybereye. 보그웨어.</p>"
         },
         "MicroWaldo": {
-            "name": "마이크로왈도",
+            "_name": "마이크로왈도",
             "description": "<p>수술을 용이하게 하기 위해 손목에 장착하는 기구 및 프로브 모음입니다. <br>의료 기술 수술 검사에 +1.&nbsp;</p>\n<p>Cyberarm 옵션 슬롯 1개와 Neural Link 옵션 슬롯 1개를 차지합니다.</p>"
         },
         "Watch-Man": {
-            "name": "파수꾼",
+            "_name": "파수꾼",
             "description": "<p dir=\"ltr\">사용자의 팔뚝에 개폐식 스크린이 있는 내부 에이전트. 사이버암 장비시 사용 가능합니다.</p>"
         },
         "DeathTrance": {
-            "name": "죽음의 무아지경",
+            "_name": "죽음의 무아지경",
             "description": "<p>심박수와 호흡과 같은 생명의 징후를 방해하는 동작으로 활성화합니다. 평범한 관찰자에게는 사용자가 죽은 것처럼 보입니다. 이 무기력한 상태의 모든 행동에 -4. Action으로 비활성화할 수 있습니다. 사용자는 여러 번의 사용으로 인해 피부가 푸르스름하거나 창백해질 수 있습니다.</p>\n<p>DV17 Medical Tech 또는 DV21 (Criminology, Deduction, Perception) 사용자가 실제로 죽지 않았는지 확인하십시오.</p>"
         },
         "Blitzkrieg Arc-Thrower Cyberarm": {
-            "name": "Blitzkrieg 아크 방사기 사이버 암",
+            "_name": "Blitzkrieg 아크 방사기 사이버 암",
             "description": "<p>이름뿐인 \"팔\"인 Arc-Thrower는 거대한 전기 대포입니다. 0 옵션 슬롯.</p>\n<p>Arc-Thrower는 중화기 스킬을 사용하는 한손 경이 불량 산탄총입니다. \"산탄총 껍질\" 전기 폭발을 발사하여 4d6 피해를 줍니다. 심각한 부상은 불가능합니다. 갑옷은 제거되지 않습니다. 대상의 HP가 폭발로 인해 1HP 이하로 떨어지면 HP가 1이고 의식 불가 상태가 됩니다.</p>\n<p>아크 방사기를 발사하면 포함된 Radline MagnaSlot BatteryBrick(100eb)의 충전이 소모됩니다. BatteryBrick은 32발을 쏠 수 있으며 1시간 안에 충전할 수 있습니다. 사용자가 사용할 수 있는 여유 손이 없는 경우에도 Action을 사용하여 새 배터리 팩으로 교체합니다. Arc-Thrower에는 손 부착물이 없습니다.</p>"
         },
         "MonoVision": {
-            "name": "모노비전",
+            "_name": "모노비전",
             "description": "<p dir=\"ltr\">두 개의 고기 눈을 대신하는 단일 광학 사이버아이 바이저. MultiOptic Mount에 비해 너무 큽니다.&nbsp;</p>\n<p dir=\"ltr\">Cybereye 옵션은 각 유형이 하나뿐이더라도 항상 \"쌍\"입니다. Lost Eye Critical Injury로 인한 페널티는 대상이 시력을 위해 Monovision에만 의존하는 경우 두 배가 됩니다.</p>\n<p>보그웨어.</p>"
         },
         "FleshWeave (Armor)": {
-            "name": "살점의 직조 (방어구)",
+            "_name": "살점의 직조 (방어구)",
             "description": "<p>Sycust FleshWeave Cyberware의 방어구 아이템.</p>"
         },
         "MagnaSlot BatteryBrick": {
-            "name": "MagnaSlot 배터리브릭",
+            "_name": "MagnaSlot 배터리브릭",
             "description": "<p>Radline Blitzkrieg Arc-Thrower Cyberarm에만 맞는 배터리 팩입니다. 1시간 안에 충전할 수 있습니다.</p>"
         }
     }

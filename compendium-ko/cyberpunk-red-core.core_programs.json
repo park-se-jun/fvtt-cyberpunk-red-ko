@@ -3,63 +3,63 @@
 
     "entries": {
         "Vrizzbolt": {
-            "name": "브리즈볼트",
+            "_name": "브리즈볼트",
             "description": "<p>넷러너의 뇌에 직접 1d6 피해를 입힙니다. 다음 턴에 할 수 있는 총 순 액션을 1(최소 2) 낮춥니다. </p>"
         },
         "Superglue": {
-            "name": "초강력 접착제",
+            "_name": "초강력 접착제",
             "description": "<p>넷러너는 로컬 네트로 더 이상 진행할 수 없으며, 넷런당 1d6 라운드.1 동안 안전하게 잭아웃할 수 없습니다. </p>"
         },
         "Poison Flatline": {
-            "name": "포이즌 플랫라인",
+            "_name": "포이즌 플랫라인",
             "description": "<p>적의 사이버 덱에 있는 흑색이 아닌 얼음을 무작위로 파괴합니다.</p>"
         },
         "See Ya": {
-            "name": "또 봐",
+            "_name": "또 봐",
             "description": "<p>레즈 상태에서 패스파인더 체크에 +2.</p>"
         },
         "Hellbolt": {
-            "name": "지옥 화살",
+            "_name": "지옥 화살",
             "description": "<p>넷러너의 뇌에 직접 2d6 피해를 입힙니다. 그들의 장비는 절연되지 않으면 불이 붙습니다. </p>"
         },
         "Flak": {
-            "name": "포화",
+            "_name": "포화",
             "description": "<p>레즈 상태에서 흑색이 아닌 얼음 공격이 0으로 감소합니다. 한 번에 1개만 Rezz할 수 있습니다. 각 복사본은 Netrun당 1회 사용할 수 있습니다.</p>"
         },
         "Worm": {
-            "name": "벌레",
+            "_name": "벌레",
             "description": "<p>레즈 상태에서 백도어 체크에 +2.</p>"
         },
         "Shield": {
-            "name": "방패",
+            "_name": "방패",
             "description": "<p>Non-Black ICE 프로그램의 첫 번째 성공적인 뇌 손상 공격이 중단되었습니다. 한 번에 1개만 Rezz할 수 있습니다. 각 복사본은 Netrun당 1회 사용할 수 있습니다.</p>"
         },
         "Speedy Gonzalvez": {
-            "name": "스피디 곤잘베스",
+            "_name": "스피디 곤잘베스",
             "description": "<p>레즈 상태에서 속도 +2.</p>"
         },
         "Banhammer": {
-            "name": "밴해머",
+            "_name": "밴해머",
             "description": "<p>흑색 ICE가 아닌 얼음에 3d6 REZ를 입히거나 흑색 ICE에 2d6 REZ 피해를 입힙니다. </p>"
         },
         "Eraser": {
-            "name": "지우개",
+            "_name": "지우개",
             "description": "<p>+2 - 레즈 상태에서 체크를 은폐합니다.</p>"
         },
         "Sword": {
-            "name": "검",
+            "_name": "검",
             "description": "<p>검은 얼음에게 3d6 REZ를, 검은 얼음이 아닌 얼음에게 2d6 REZ 피해를 입힙니다. </p>"
         },
         "Nervescrub": {
-            "name": "신경스크럽",
+            "_name": "신경스크럽",
             "description": "<p>1시간 동안 Netrunner의 INT REF 및 DEX를 1d6(최소 1) 낮춥니다.</p>"
         },
         "DeckKRASH": {
-            "name": "덱크라쉬",
+            "_name": "덱크라쉬",
             "description": "<p>Netrunner가 안전하지 않게 Jack Out을 하도록 합니다. </p>"
         },
         "Armor": {
-            "name": "갑옷",
+            "_name": "갑옷",
             "description": "<p>레즈드 상태에서 뇌 손상이 4 감소합니다. 한 번에 1개만 Rezzed. 각 복사본은 Netrun당 1회 사용할 수 있습니다.</p>"
         }
     }

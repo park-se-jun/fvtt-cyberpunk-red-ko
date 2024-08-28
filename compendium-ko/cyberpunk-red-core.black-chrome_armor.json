@@ -3,95 +3,95 @@
 
     "entries": {
         "Lotos Netsuit": {
-            "name": "로토스 넷슈트",
+            "_name": "로토스 넷슈트",
             "description": "<p>슈트에 직접 설치되는 추가 cyberdeck 하드웨어 슬롯을 허용하는 넷슈트로, 슈트가 제거되면 제거됩니다. 우수한 품질의 Cyberdeck*이 기본으로 제공됩니다. -2 - REF, DEX 및 MOVE. BC 페이지 31의 전체 항목 설명을 참조하십시오.</p>\n<p><em>*방어구를 획득한 후 수동으로 추가해야 합니다.</em></p>"
         },
         "Shock Armor": {
-            "name": "쇼크 아머",
+            "_name": "쇼크 아머",
             "description": "<p>당신을 붙잡고 있는 모든 사람을 충격에 빠뜨리는 케블라 갑옷. BC 페이지 29의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Tactical Smart Armor": {
-            "name": "전술 스마트 아머",
+            "_name": "전술 스마트 아머",
             "description": "<p>스마트 안경이 통합된 미디엄 아머잭 풀 세트*. -2는 REF, DEX 및 MOVE입니다. BC 페이지 30의 전체 항목 설명을 참조하십시오.</p>\n<p><em>*스마트 안경은 방어구를 획득한 후 수동으로 추가해야 합니다.</em></p>"
         },
         "Executive Armor": {
-            "name": "이그제큐티브 아머",
+            "_name": "이그제큐티브 아머",
             "description": "<p>비즈니스웨어처럼 보이는 라이트 아머잭. 갑옷의 SP가 손실되지 않는 날마다 SP를 1pt 회복한다. BC 페이지 34의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Asia Pop)": {
-            "name": "미믹 의류 (아시아 팝)",
+            "_name": "미믹 의류 (아시아 팝)",
             "description": "<p>미믹 의상 키트와 \"아시아 팝\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Bag Lady Chic)": {
-            "name": "미믹 의류 (백 레이디 시크)",
+            "_name": "미믹 의류 (백 레이디 시크)",
             "description": "<p>미믹 의상 키트와 \"백 레이디 시크\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "AirRider": {
-            "name": "에어라이더",
+            "_name": "에어라이더",
             "description": "<p>자동차 충돌로 인한 위플래쉬 치명상을 무시하는 케블라 방탄복은 방탄복의 CO2 탱크가 가득 차 있는 한*. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>\n<p><em>*방어구를 획득한 후 수동으로 추가해야 합니다.</em></p>"
         },
         "Montage Variable Clothing Line": {
-            "name": "몽타주 가변 의류 라인",
+            "_name": "몽타주 가변 의류 라인",
             "description": "<p>\"Generic Chic\"과 \"Gang Colors\" 스타일을 구매할 수 있는 Light Armorjack은 구매한 팔레트(색상/패턴당 20eb)의 액션으로 에이전트에 설치했습니다. 선택할 수 있는 한 가지 색상 또는 패턴이 함께 제공됩니다. BC 페이지 32의 전체 항목 설명 참조</p>"
         },
         "Mimic Clothing (Leisurewear)": {
-            "name": "미믹 의류 (레저웨어)",
+            "_name": "미믹 의류 (레저웨어)",
             "description": "<p>미믹 의상 키트와 \"레저웨어\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Dirk Combat Jacket": {
-            "name": "더크 컴뱃 재킷",
+            "_name": "더크 컴뱃 재킷",
             "description": "<p>레저웨어 스타일의 라이트 아머잭과 체크 없이 두 개의 표준 탄창을 숨길 수 있는 기능. BC 페이지 28의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Street Viper Riding Suit": {
-            "name": "스트리트 바이퍼 라이딩 슈트",
+            "_name": "스트리트 바이퍼 라이딩 슈트",
             "description": "<p>케블라 방탄복은 두 개의 사전 설치된 중형 근접 무기*와 함께 제공되며, 방어구가 장착되어 있는 한 항상 뽑힌 것으로 간주됩니다. BC 페이지 36의 전체 항목 설명을 참조하십시오.</p>\n<p><em>*방어구를 획득한 후 수동으로 추가해야 합니다.</em></p>"
         },
         "Mimic Clothing (High Fashion)": {
-            "name": "미믹 의류 (하이 패션)",
+            "_name": "미믹 의류 (하이 패션)",
             "description": "<p>미믹 의상 키트와 \"하이 패션\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Bohemian)": {
-            "name": "미믹 의류 (보헤미안)",
+            "_name": "미믹 의류 (보헤미안)",
             "description": "<p>미믹 의상 키트와 \"보헤미안\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Businesswear)": {
-            "name": "미믹 의류 (비즈니스웨어)",
+            "_name": "미믹 의류 (비즈니스웨어)",
             "description": "<p>미믹 의상 키트와 \"비즈니스웨어\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Nomad Leathers)": {
-            "name": "미믹 의류 (Nomad Leathers)",
+            "_name": "미믹 의류 (Nomad Leathers)",
             "description": "<p>미믹 의상 키트와 \"Nomad Leathers\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Laser Light Street Jacket": {
-            "name": "레이저 라이트 스트리트 재킷",
+            "_name": "레이저 라이트 스트리트 재킷",
             "description": "<p>어반 플래시 스타일의 라이트 아머잭은 착용 시 라이트 타투로 간주됩니다. BC 페이지 31의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Gang Colors)": {
-            "name": "모방 의류 (갱 색상)",
+            "_name": "모방 의류 (갱 색상)",
             "description": "<p>미믹 의상 키트와 \"갱 컬러\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Corporate Island": {
-            "name": "코퍼레이트 아일랜드",
+            "_name": "코퍼레이트 아일랜드",
             "description": "<p>비즈니스웨어처럼 보이는 라이트 아머잭. BC 페이지 35의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Mimic Clothing (Urban Flash)": {
-            "name": "미믹 의류 (어반 플래시)",
+            "_name": "미믹 의류 (어반 플래시)",
             "description": "<p>미믹 의상 키트와 \"어반 플래시\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Bunker Gear": {
-            "name": "벙커 기어",
+            "_name": "벙커 기어",
             "description": "<p>방독면이 내장된 내화성 방탄 장갑과 한 시간 후에 자동으로 채워지는 탱크에서 30분 동안 산소를 공급합니다. REF, DEX 및 MOVE에 -4. BC 페이지 29의 전체 항목 설명을 참조하십시오.</p>"
         },
         "MechaMan Motorcycle Helmet": {
-            "name": "MechaMan 오토바이 헬멧",
+            "_name": "MechaMan 오토바이 헬멧",
             "description": "<p>Chyron 및 Low Light / IR / UV가 사전 설치된 통합 스마트 안경이 장착 된 Kevlar 오토바이 헬멧. BC 페이지 37의 전체 항목 설명을 참조하십시오.</p>\n<p><em>*스마트 안경 및 관련 사이버웨어는 갑옷을 획득한 후 수동으로 추가하고 설치해야 합니다.</em></p>"
         },
         "Mimic Clothing (Generic Chic)": {
-            "name": "미믹 의류 (일반 시크)",
+            "_name": "미믹 의류 (일반 시크)",
             "description": "<p>미믹 의상 키트와 \"일반 시크\" 의상으로 만든 라이트 아머잭. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Skid Row Trench": {
-            "name": "스키드 로우 트렌치",
+            "_name": "스키드 로우 트렌치",
             "description": "<p>방탄복은 트렌치 코트처럼 보이지만 보호 효과가 적습니다. -4 - REF, DEX 및 MOVE. BC 페이지 33의 전체 항목 설명을 참조하십시오.</p>"
         }
     }

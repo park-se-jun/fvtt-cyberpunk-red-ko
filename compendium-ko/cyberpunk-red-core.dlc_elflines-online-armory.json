@@ -3,75 +3,75 @@
 
     "entries": {
         "Bow": {
-            "name": "활",
+            "_name": "활",
             "description": "<p>활력을 되찾은 활로, 공격 액션의 일부로 재장전됩니다.</p>"
         },
         "Full Plate Armor (Head)": {
-            "name": "풀 플레이트 아머 (머리)",
+            "_name": "풀 플레이트 아머 (머리)",
             "description": "<p>머리에 가해지는 가장 강력한 충격에 저항하는 금속 도금 갑옷. -4 - REF, DEX 및 MOVE.</p>"
         },
         "Longsword": {
-            "name": "롱소드",
+            "_name": "롱소드",
             "description": "<p>칼날이 달린 칼자루가 달린 무기였다. 절단 또는 스러스트를 위해 특별히 설계되었습니다. 두 개의 장검을 휘두르는 경우 2 ROF.</p>"
         },
         "Dagger": {
-            "name": "단도",
+            "_name": "단도",
             "description": "<p>사냥꾼에게 어울리는 칼입니다.</p>"
         },
         "Vial of Poison": {
-            "name": "독이 담긴 약병",
+            "_name": "독이 담긴 약병",
             "description": "<p>고문/약물에 저항하지 않는 한 2d6 피해. 방어구는 적용되지 않습니다.</p>"
         },
         "Studded Leather Armor (Head)": {
-            "name": "스터드 가죽 갑옷 (머리)",
+            "_name": "스터드 가죽 갑옷 (머리)",
             "description": "<p>당신의 머리를 위한 표준 스터드 가죽 갑옷. 방어구 페널티가 없습니다.</p>"
         },
         "Poison Arrow": {
-            "name": "포이즌 애로우",
+            "_name": "포이즌 애로우",
             "description": "<p>즉각적인 손상은 없습니다. 고기 목표물이 명중하면 DV13은 고문/약물 검사에 저항합니다. 실패 시 HP에 2d6 피해. 절제 없음. </p>"
         },
         "Chainmail Armor (Body)": {
-            "name": "사슬갑옷 (몸체)",
+            "_name": "사슬갑옷 (몸체)",
             "description": "<p>무수한 금속 고리로 이루어진 갑옷. -2 - REF, DEX 및 MOVE.</p>"
         },
         "Full Plate Armor (Body)": {
-            "name": "풀 플레이트 아머(몸체)",
+            "_name": "풀 플레이트 아머(몸체)",
             "description": "<p>가장 강력한 공격을 견딜 수 있는 금속 도금 갑옷. -4 - REF, DEX 및 MOVE.</p>"
         },
         "Shield": {
-            "name": "방패",
+            "_name": "방패",
             "description": "<p>팔이 필요하며 피해에 따라 감소하는 HP가 있습니다.</p>"
         },
         "Studded Leather Armor (Body)": {
-            "name": "스터드 가죽 갑옷(몸체)",
+            "_name": "스터드 가죽 갑옷(몸체)",
             "description": "<p>표준 스터드 가죽 갑옷. 방어구 페널티가 없습니다.</p>"
         },
         "Leather Armor (Body)": {
-            "name": "가죽 갑옷 (몸체)",
+            "_name": "가죽 갑옷 (몸체)",
             "description": "<p>심플한 가죽 갑옷. 방어구 페널티가 없습니다.</p>"
         },
         "Leather Armor (Head)": {
-            "name": "가죽 갑옷 (머리)",
+            "_name": "가죽 갑옷 (머리)",
             "description": "<p>머리를 위한 심플한 가죽 갑옷. 방어구 페널티가 없습니다.</p>"
         },
         "Chainmail Armor (Head)": {
-            "name": "사슬갑옷 (머리)",
+            "_name": "사슬갑옷 (머리)",
             "description": "<p>머리를 위한 무수한 금속 고리로 구성된 갑옷. -2 - REF, DEX 및 MOVE.</p>"
         },
         "Arrow": {
-            "name": "화살",
+            "_name": "화살",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Shortsword": {
-            "name": "단검",
+            "_name": "단검",
             "description": "<p>칼날이 짧고 칼자루가 달린 무기입니다. 절단 또는 스러스트를 위해 특별히 설계되었습니다.</p>"
         },
         "Greataxe": {
-            "name": "그레이트 액스",
+            "_name": "그레이트 액스",
             "description": "<p>양쪽에 구부러진 칼날이 있는 나무 기둥. 근접 교전을 위해 습격 파티가 선호합니다. Body 8 이상의 사용자가 휘두르려면 2개의 손이 필요합니다.</p>"
         },
         "Sacred Herbs": {
-            "name": "신성한 약초",
+            "_name": "신성한 약초",
             "description": "<p>신성한 약초를 섭취하면 즉시 사용자의 BODY에 WILL을 더한 만큼의 HP를 회복합니다.</p>"
         }
     }

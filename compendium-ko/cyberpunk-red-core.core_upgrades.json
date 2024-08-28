@@ -2,207 +2,207 @@
     "label": "업그레이드",
     "entries": {
         "Drum Magazine (SMG)": {
-            "name": "드럼 매거진(SMG)",
+            "_name": "드럼 매거진(SMG)",
             "description": "<p>탄창 크기가 무려 50발로 증가합니다.</p>"
         },
         "Deployable Spike Strip": {
-            "name": "전개식 스파이크 스트립",
+            "_name": "전개식 스파이크 스트립",
             "description": "<p>모든 지상차에 적용할 수 있습니다. 액션으로 드라이버는 스파이크 스트립을 배포할 수 있습니다. 배치된 동안 타이어를 장착하고 바짝 뒤쫓는 차량은 DV17 Drive Land Vehicle Check를 수행해야 합니다. 실패 시, 해당 전차는 약점에 부딪힌 것처럼 4d6 피해를 입습니다. 교체 스파이크 스트립 비용은 10eb입니다.&nbsp;</p>\n<p>이 업그레이드는 여러 번 설치할 수 있으며, 업그레이드할 때마다 시스템에 재장전이 필요하기 전에 배치할 수 있는 스파이크 스트립의 양이 증가하며 기체가 이동하는 동안에는 재장전할 수 없습니다.</p>"
         },
         "AV-4 Engine Upgrade": {
-            "name": "AV-4 엔진 업그레이드",
+            "_name": "AV-4 엔진 업그레이드",
             "description": "<p>모든 지상 차량에 적용할 수 있습니다. 기체에 에어로다인 추진기를 추가하여 비행을 가능하게 합니다. 비행하는 동안 차량의 내러티브 속도는 200MPH / 322KPH이고 전투 속도는 40입니다. 기체는 공중에서 Pilot Air Vehicle 기술을 사용하여 조종해야 합니다.</p>"
         },
         "Smuggling Upgrade": {
-            "name": "밀수 업그레이드",
+            "_name": "밀수 업그레이드",
             "description": "<p>모든 차량에 적용할 수 있습니다. 차량에 <strong>숨겨진 권총집</strong> 2개를 추가하고, 밀수를 위한 커다란 숨겨진 보관함을 추가합니다. 이는 DV17 Conceal/Reveal Object 검사로 발견할 수 있습니다.&nbsp;<br><br>자전거, 제트스키, 자이로콥터를 제외하고 여러 번 탈 수 있습니다.</p>"
         },
         "Insulated Wiring": {
-            "name": "절연 배선",
+            "_name": "절연 배선",
             "description": "<p>사이버덱과 사용자 복장에 불이 붙지 않습니다.&nbsp;</p>"
         },
         "Smartgun Link": {
-            "name": "스마트건 링크",
+            "_name": "스마트건 링크",
             "description": "<p>무기를 \"스마트건\"으로 바꿉니다. 사용하기 전에 344페이지에 명시된 모든 규칙을 참조하십시오.&nbsp;</p>"
         },
         "Security Upgrade": {
-            "name": "보안 업그레이드",
+            "_name": "보안 업그레이드",
             "description": "<p>모든 차량에 적용할 수 있습니다. 차량에 DNA 잠금 장치를 추가하여 올바른 생체 인식 또는 DV 17 전자 장치/보안 기술 검사를 요청하여 잠금 해제할 수 있습니다. 전차 잠금을 해제하지 않으면 스턴 배턴에 맞은 것처럼 피해를 입습니다.</p>\n<p>또한, 정지 상태에서는 차량이 은폐되어 있으므로 DV17 인식 검사를 통해 차량을 발견해야 합니다. 이것이 활성화되기 전에 차량은 1분 동안 정지 상태를 유지해야 합니다.</p>"
         },
         "Drum Magazine (Medium Pistol)": {
-            "name": "드럼 매거진 (중형 권총)",
+            "_name": "드럼 매거진 (중형 권총)",
             "description": "<p>탄창 크기가 무려 36발로 증가합니다.</p>"
         },
         "Backup Drive": {
-            "name": "백업 드라이브",
+            "_name": "백업 드라이브",
             "description": "<p>Non-Black IE 프로그램은 파괴될 때 저장합니다. 이러한 프로그램은 Netrunner에 의해 고기 작업으로 다시 설치할 수 있습니다.&nbsp;</p>"
         },
         "Onboard Rocket Pod": {
-            "name": "온보드 Rocket Pod",
+            "_name": "온보드 Rocket Pod",
             "description": "<p>자전거, 제트스키, 자이로콥터를 제외한 모든 차량에 적용할 수 있습니다. 로켓 <strong>발사&nbsp;</strong>기는 3개의 로켓으로 구성된 드럼통을 장착할 수 있으며, 전차 전면을 향하게 장착할 수 있습니다. 드라이버는 Action을 사용하여 발사할 수 있습니다. 운전 중에는 재장전할 수 없으며, 무기 부착물을 사용할 수 없습니다.&nbsp;</p>\n<p>이 업그레이드는 여러 번 설치할 수 있습니다. <strong>무거운 섀시가 필요합니다</strong>.</p>"
         },
         "Vehicle Heavy Weapon Mount": {
-            "name": "차량 중화기 마운트",
+            "_name": "차량 중화기 마운트",
             "description": "<p>자전거, 제트스키, 자이로콥터를 제외한 모든 차량에 적용할 수 있습니다. 탑승장비 좌석 중 하나는 양손 원거리 무기의 회전 탈것이 됩니다. 승객은 액션을 사용하여 무기를 발사할 수 있습니다. 승객은 무기를 재장전할 수 있습니다. 액션을 사용하여 무기를 제거하거나 다시 설치할 수 있습니다.&nbsp;</p>\n<p>이 업그레이드를 처음 수행하면 <strong>Tsunami Arms Helix</strong>,&nbsp; <strong>Rhinemetalle EMG-86 레일건</strong> 또는 <strong>Militech \"Cowboy\" U-56 유탄 발사기가</strong> 포함됩니다. 차량에 방탄 유리가 업그레이드되어 있으면 사수도 동일한 유리로 보호됩니다.&nbsp;</p>\n<p>차량에 하우징 용량 업그레이드가 있는 경우 이 업그레이드를 여러 번 설치할 수 있습니다. <strong>무거운 섀시가 필요합니다</strong>.</p>"
         },
         "Drum Magazine (Shotgun)": {
-            "name": "드럼 매거진 (산탄총)",
+            "_name": "드럼 매거진 (산탄총)",
             "description": "<p>탄창 크기가 무려 16발로 증가합니다.</p>"
         },
         "Onboard Machine Gun": {
-            "name": "온보드 기관총",
+            "_name": "온보드 기관총",
             "description": "<p>모든 차량에 적용할 수 있습니다. 30발의 탄약을 장전할 수 있으며 자동사격만 가능한 <strong>돌격소총</strong>으로, 전차 전방에 장착할 수 있습니다. 운전자는 액션을 사용하여 발사할 수 있으며, 주행 중에는 재장전할 수 없으며 무기 부착물을 수락할 수 없습니다.&nbsp;</p>\n<p>이 업그레이드는 여러 번 설치할 수 있습니다.</p>"
         },
         "Drum Magazine (Grenade Launcher)": {
-            "name": "드럼 매거진 (유탄 발사기)",
+            "_name": "드럼 매거진 (유탄 발사기)",
             "description": "<p>탄창 크기가 최대 6개의 수류탄으로 증가합니다.</p>"
         },
         "NOS": {
-            "name": "아니요",
+            "_name": "아니요",
             "description": "<p>모든 차량에 적용할 수 있습니다. 차량에 아산화질소 탱크를 추가합니다. 운전 중 액션을 사용하여 추가 이동 액션을 사용할 수 있습니다.&nbsp;</p>\n<p>이 업그레이드는 여러 번 설치할 수 있으며, 각 업그레이드는 추가 탱크를 추가하며 각 탱크는 하루에 한 번 사용할 수 있습니다.</p>"
         },
         "Extended Magazine (SMG)": {
-            "name": "확장 매거진(SMG)",
+            "_name": "확장 매거진(SMG)",
             "description": "<p>탄창 크기가 무려 40발로 증가합니다.</p>"
         },
         "Extended Magazine (Grenade Launcher)": {
-            "name": "확장 탄창 (유탄 발사기)",
+            "_name": "확장 탄창 (유탄 발사기)",
             "description": "<p>탄창 크기가 수류탄 4개로 증가합니다.</p>"
         },
         "Bulletproof Glass": {
-            "name": "방탄 유리",
+            "_name": "방탄 유리",
             "description": "<p>모든 차량에 적용할 수 있습니다. 전차의 모든 유리는 이제 15 HP의 엄폐물로 간주됩니다. 30HP로 업그레이드하기 위해 두 번째로 사용할 수 있습니다. 모든 창문은 개별적으로 손상됩니다.</p>"
         },
         "Drum Magazine (Heavy SMG)": {
-            "name": "드럼 매거진 (헤비 SMG)",
+            "_name": "드럼 매거진 (헤비 SMG)",
             "description": "<p>탄창 크기가 무려 60발로 증가합니다.</p>"
         },
         "Sniping Scope": {
-            "name": "저격 범위",
+            "_name": "저격 범위",
             "description": "<p>최대 800m/yds까지 세부 사항을 볼 수 있습니다. 50m/yds보다 큰 대상에 대해 단일 사격/조준 사격에 +1.&nbsp;</p>"
         },
         "Range Upgrade": {
-            "name": "범위 업그레이드",
+            "_name": "범위 업그레이드",
             "description": "<p>Cyberdeck은 최대 8m/yds 떨어진 액세스 포인트에 연결할 수 있습니다(6m/yds 대신).</p>"
         },
         "Drum Magazine (Heavy Pistol)": {
-            "name": "드럼 매거진 (헤비 피스톨)",
+            "_name": "드럼 매거진 (헤비 피스톨)",
             "description": "<p>탄창 크기가 무려 28발로 늘어납니다.</p>"
         },
         "Heavy Chassis": {
-            "name": "무거운 섀시",
+            "_name": "무거운 섀시",
             "description": "<p>자전거, 제트스키, 자이로콥터를 제외한 모든 차량에 적용할 수 있습니다. 차량에 20 SDP를 추가합니다. 이것은 유리에 영향을 미치지 않으며 차량은 이제 최대 10톤까지 견인할 수 있습니다.&nbsp;</p>"
         },
         "Shotgun Underbarrel": {
-            "name": "산탄총 Underbarrel",
+            "_name": "산탄총 Underbarrel",
             "description": "<p>일반 산탄총과 비슷하게 작동하지만, 탄창 크기가 2입니다. 사용하려면 2개의 손이 필요하며 2개의 부착 슬롯을 차지합니다. 부착되어 있는 동안에는 무기를 옷 속에 숨길 수 없습니다.</p>\n<p>무기는 부착된 총의 모든 수정자(예: 다른 부착물 및 품질)를 상속합니다.</p>"
         },
         "Extended Magazine (Rocket Launcher)": {
-            "name": "확장 탄창 (로켓 발사기)",
+            "_name": "확장 탄창 (로켓 발사기)",
             "description": "<p>탄창 크기가 로켓 2발로 증가합니다.</p>"
         },
         "Extended Magazine (Heavy Pistol)": {
-            "name": "확장 탄창 (중권총)",
+            "_name": "확장 탄창 (중권총)",
             "description": "<p>탄창 크기가 무려 14발로 증가합니다.</p>"
         },
         "Extended Magazine (Shotgun)": {
-            "name": "확장 탄창 (산탄총)",
+            "_name": "확장 탄창 (산탄총)",
             "description": "<p>탄창 크기가 무려 8발로 증가합니다.</p>"
         },
         "DNA Lock": {
-            "name": "DNA 잠금",
+            "_name": "DNA 잠금",
             "description": "<p>생체 인식을 사용하여 사이버 데크를 잠급니다. 크랙하려면 DV17 전자 장치/보안 기술 점검이 필요합니다.&nbsp;</p>"
         },
         "KRASH Barrier": {
-            "name": "크라쉬 배리어",
+            "_name": "크라쉬 배리어",
             "description": "<p>Cyberdeck은 Netrunner를 (안전 또는 불안전하게) Jack Out으로 만드는 효과에 면역입니다.</p>"
         },
         "Armored Chassis": {
-            "name": "아머드 섀시",
+            "_name": "아머드 섀시",
             "description": "<p>모든 차량에 적용할 수 있습니다. 전차 장갑을 SP13으로 강화합니다. 유리에는 영향을 주지 않습니다.</p>"
         },
         "Seating Upgrade": {
-            "name": "좌석 업그레이드",
+            "_name": "좌석 업그레이드",
             "description": "<p>모든 차량에 적용할 수 있습니다. 차량에 시트 2개를 추가합니다. 이들은 외부 사이드카로 설치할 수 있으며 탈착식 낙하산이 있는 이젝터 시트로 설치할 수도 있습니다.</p>\n<p>자전거, 제트스키, 자이로콥터를 제외하고 여러 번 탈 수 있습니다.</p>"
         },
         "Drum Magazine (Sniper Rifle)": {
-            "name": "드럼 매거진 (스나이퍼 라이플)",
+            "_name": "드럼 매거진 (스나이퍼 라이플)",
             "description": "<p>탄창 크기가 무려 12발로 늘어납니다.</p>"
         },
         "Drum Magazine (Assault Rifle)": {
-            "name": "드럼 매거진 (돌격 소총)",
+            "_name": "드럼 매거진 (돌격 소총)",
             "description": "<p>탄창 크기가 무려 45발로 증가합니다.</p>"
         },
         "Hover Upgrade": {
-            "name": "호버 업그레이드",
+            "_name": "호버 업그레이드",
             "description": "<p>모든 지상 차량에 적용할 수 있습니다. 차량에 팬을 추가하여 내러티브 속도 15MPH/24KPH, 전투 속도 10으로 물을 횡단할 수 있습니다.</p>"
         },
         "Extended Magazine (Medium Pistol)": {
-            "name": "확장 탄창 (중형 권총)",
+            "_name": "확장 탄창 (중형 권총)",
             "description": "<p>탄창 크기가 무려 18발로 증가합니다.</p>"
         },
         "Communications Center": {
-            "name": "커뮤니케이션 센터",
+            "_name": "커뮤니케이션 센터",
             "description": "<p>모든 차량에 적용할 수 있습니다. 에이전트 역할을 하는 터치스크린 콘솔과 라디오 <strong>커뮤니케이터</strong> 6개, <strong>스크램블러/디스크램블러</strong> 6개, <strong>라디오 스캐너/음악 플레이어</strong>, 트레이서 6개가 있는 <strong>원점 복귀 트레이서</strong>, <strong>오디오 레코더</strong>가 들어 있는 저장 유닛입니다.</p>"
         },
         "Infrared Nightvision Scope": {
-            "name": "적외선 야간 투시경",
+            "_name": "적외선 야간 투시경",
             "description": "<p>어둠, 연기/안개에 있는 대상에 대한 페널티를 0으로 감소시킵니다.</p>"
         },
         "Housing Capacity": {
-            "name": "수용 인원",
+            "_name": "수용 인원",
             "description": "<p>Aerozep, AV-4, Cabin Cruiser, Groundcars 및 Yacht에 적용할 수 있습니다. 그라운드카 또는 AV-4에 장착하면 침대 1개가 있는 수면 공간, 화장실, 샤워실, 작은 주방이 차량에 추가됩니다. 캐빈 크루저, 요트 또는 에어로제프에 장착하면 차량에 하나의 공간이 추가됩니다.&nbsp;</p>\n<p><strong>소형 지상차와 고성능 지상차에 무거운 섀시가 필요합니다</strong>.</p>"
         },
         "Combat Plow": {
-            "name": "컴뱃 플라우",
+            "_name": "컴뱃 플라우",
             "description": "<p>자전거와 제트스키를 제외한 모든 육상 및 해상 차량에 적용할 수 있습니다. 차량 앞부분에 무언가를 부딪혔을 때 차량이 피해를 입지 않고 안에 있는 아무도 채찍질로 인한 심각한 부상을 입지 않습니다. 물체에 부딪히는 턴에 차량이 NOS에 의해 증폭된 경우 2d6의 추가 충돌 피해를 입힙니다.&nbsp;</p>"
         },
         "Extended Magazine (Assault Rifle)": {
-            "name": "확장 탄창 (돌격 소총)",
+            "_name": "확장 탄창 (돌격 소총)",
             "description": "<p>탄창 크기가 무려 35발로 증가합니다.</p>"
         },
         "Extended Magazine (Sniper Rifle)": {
-            "name": "확장 탄창 (스나이퍼 라이플)",
+            "_name": "확장 탄창 (스나이퍼 라이플)",
             "description": "<p>탄창 크기가 8발로 증가합니다.</p>"
         },
         "Onboard Flamethrower": {
-            "name": "탑재된 화염방사기",
+            "_name": "탑재된 화염방사기",
             "description": "<p>모든 차량에 적용할 수 있습니다. <strong> </strong>차량의 전방, 측면 또는 후면을 향하게 장착할 수 있는 <strong>화염 방사기</strong>입니다. 드라이버는 Action을 사용하여 발사할 수 있습니다. 운전 중에는 재장전할 수 없으며, 무기 부착물을 사용할 수 없습니다.</p>\n<p>이 업그레이드는 여러 번 설치할 수 있습니다.</p>"
         },
         "Extended Magazine (Heavy SMG)": {
-            "name": "확장 탄창 (중기관단총)",
+            "_name": "확장 탄창 (중기관단총)",
             "description": "<p>탄창 크기가 50발로 증가합니다.</p>"
         },
         "Hardened Circuitry": {
-            "name": "강화된 회로",
+            "_name": "강화된 회로",
             "description": "<p>사이버덱은 EMP 효과에 의해 무력화되거나 파괴되지 않는다.&nbsp;</p>"
         },
         "Enhanced Interface Plug Integration": {
-            "name": "향상된 인터페이스 플러그 통합",
+            "_name": "향상된 인터페이스 플러그 통합",
             "description": "<p>모든 자전거에 적용할 수 있습니다. 인터페이스 플러그를 사용하여 이 차량을 운전하는 동안 REF 8 이상을 가지고 있고 사용자, 승객 또는 자전거가 공격의 대상인 경우 도보로 피하는 것처럼 회피를 시도할 수 있습니다. 승객을 위해 피하면 그것이 승객의 방어가 됩니다.&nbsp;</p>"
         },
         "Extended Magazine (Very Heavy Pistol)": {
-            "name": "확장 탄창(매우 무거운 권총)",
+            "_name": "확장 탄창(매우 무거운 권총)",
             "description": "<p>탄창 크기가 무려 14발로 증가합니다.</p>"
         },
         "Drum Magazine (Very Heavy Pistol)": {
-            "name": "드럼 매거진(매우 무거운 권총)",
+            "_name": "드럼 매거진(매우 무거운 권총)",
             "description": "<p>탄창 크기가 무려 28발로 늘어납니다.</p>"
         },
         "Onboard Melee Weapon": {
-            "name": "온보드 근접 무기",
+            "_name": "온보드 근접 무기",
             "description": "<p>모든 육상 및 해상 차량에 적용할 수 있습니다. 전차의 전방, 측면, 후방에 장착할 수 있는 <strong>매우 무거운 근접 무기&nbsp;</strong>입니다. 운전자는 액션을 사용하여 공격할 수 있습니다. 무기는 제거할 수 없습니다.&nbsp;</p>\n<p>이 업그레이드는 여러 번 설치할 수 있습니다.</p>"
         },
         "Grenade Launcher Underbarrel": {
-            "name": "유탄 발사기 Underbarrel",
+            "_name": "유탄 발사기 Underbarrel",
             "description": "<p>일반 유탄 발사기와 비슷하게 작동하지만, 탄창 크기는 1입니다. 사용하려면 2개의 손이 필요하며 2개의 부착 슬롯을 차지합니다. 부착되어 있는 동안에는 무기를 옷 속에 숨길 수 없습니다.</p>\n<p>무기는 부착된 총의 모든 수정자(예: 다른 부착물 및 품질)를 상속합니다.</p>"
         },
         "Bayonet": {
-            "name": "총검",
+            "_name": "총검",
             "description": "<p>오래된 아이디어는 여전히 잘 작동합니다. 총을 가벼운 근접 무기로 사용할 수 있게 해줍니다. 부착되어 있는 동안에는 무기를 옷 속에 숨길 수 없습니다.</p>"
         },
         "Drum Magazine (Rocket Launcher)": {
-            "name": "드럼 매거진 (로켓 발사기)",
+            "_name": "드럼 매거진 (로켓 발사기)",
             "description": "<p>탄창 크기가 최대 3발로 증가합니다. 그것은 많은 붐입니다.</p>"
         }
     }

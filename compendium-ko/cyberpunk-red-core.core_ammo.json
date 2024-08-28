@@ -3,223 +3,223 @@
 
     "entries": {
         "Arrow (Expansive)": {
-            "name": "화살표(확장)",
+            "_name": "화살표(확장)",
             "description": "<p>Foreign object Critical을 굴리면(187페이지 참조) 피해자는 두 번째(다른) Critical Injury를 위해 굴립니다. 두 번째 부상은 추가 피해를 입히지 않습니다.</p>"
         },
         "Arrow (Poison)": {
-            "name": "화살 (독)",
+            "_name": "화살 (독)",
             "description": "<p>즉각적인 손상은 없습니다. 고기 목표물이 명중하면 DV13은 고문/약물 검사에 저항합니다. 실패 시 HP에 2d6 피해. 절제 없음. </p>"
         },
         "Heavy Pistol (Smart)": {
-            "name": "헤비 피스톨 (스마트)",
+            "_name": "헤비 피스톨 (스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Grenade (Teargas)": {
-            "name": "수류탄 (최루가스)",
+            "_name": "수류탄 (최루가스)",
             "description": "<p>피해를 입히지 않습니다. Meat eyes roll DV13 Resist Torture/Drugs Check로 목표물을 명중하십시오. 실패하면 1분 동안 손상된 눈에 심각한 부상을 입습니다(188페이지 참조). 크리티컬 보너스 피해를 입히지 않습니다.</p>"
         },
         "Heavy Pistol (Armor-Piercing)": {
-            "name": "헤비 피스톨 (갑옷 관통)",
+            "_name": "헤비 피스톨 (갑옷 관통)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Very Heavy Pistol (Expansive)": {
-            "name": "매우 무거운 권총(확장형)",
+            "_name": "매우 무거운 권총(확장형)",
             "description": "<p>Foreign object Critical을 굴리면(187페이지 참조) 피해자는 두 번째(다른) Critical Injury를 위해 굴립니다. 두 번째 부상은 추가 피해를 입히지 않습니다.</p>"
         },
         "Medium Pistol (Basic)": {
-            "name": "중형 권총(기본)",
+            "_name": "중형 권총(기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Medium Pistol (Smart)": {
-            "name": "중형 권총(스마트)",
+            "_name": "중형 권총(스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Very Heavy Pistol (Rubber)": {
-            "name": "매우 무거운 권총(고무)",
+            "_name": "매우 무거운 권총(고무)",
             "description": "<p>심각한 부상을 입지 않습니다. 갑옷을 제거하지 않습니다. 대상에게 최소 1hp를 남깁니다. 경이 무기의 기본 탄약으로 계산</p>됩니다."
         },
         "Grenade (Smoke)": {
-            "name": "수류탄 (연막)",
+            "_name": "수류탄 (연막)",
             "description": "<p>피해를 입히지 않습니다. 10m/야드 x 10m/야드를 1분 동안 연기로 채웁니다. 연기에 가려진 과제는 -4 페널티를 받습니다.</p>"
         },
         "Rifle (Armor-Piercing)": {
-            "name": "소총 (철갑구 갑옷)",
+            "_name": "소총 (철갑구 갑옷)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Arrow (Biotoxin)": {
-            "name": "화살(생물 독소)",
+            "_name": "화살(생물 독소)",
             "description": "<p>즉각적인 손상은 없습니다. DV15에 맞으면 고문/약물 검사에 저항하십시오. 실패 시 HP에 3d6 피해. 절제 없음. </p>"
         },
         "Arrow (Basic)": {
-            "name": "화살표(기본)",
+            "_name": "화살표(기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Paintball (Acid)": {
-            "name": "페인트볼(산성)",
+            "_name": "페인트볼(산성)",
             "description": "<p>산으로 채워진 페인트 볼. 피해를 입히지 않으나, 적중 시 방어구를 SP1 감소시킨다*.</p>\n<p><em>*현재 지원되지 않으므로 피격 시 장갑을 수동으로 줄여야 합니다.</em></p>"
         },
         "Very Heavy Pistol (Smart)": {
-            "name": "매우 무거운 권총(스마트)",
+            "_name": "매우 무거운 권총(스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Grenade (Incendiary)": {
-            "name": "수류탄 (소이탄)",
+            "_name": "수류탄 (소이탄)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Heavy Pistol (Expansive)": {
-            "name": "헤비 피스톨 (확장형)",
+            "_name": "헤비 피스톨 (확장형)",
             "description": "<p>Foreign object Critical을 굴리면(187페이지 참조) 피해자는 두 번째(다른) Critical Injury를 위해 굴립니다. 두 번째 부상은 추가 피해를 입히지 않습니다.</p>"
         },
         "Rifle (Basic)": {
-            "name": "소총(기본)",
+            "_name": "소총(기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Arrow (Smart)": {
-            "name": "화살표(스마트)",
+            "_name": "화살표(스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Shotgun Shell (Incendiary)": {
-            "name": "산탄총 포탄(소이탄)",
+            "_name": "산탄총 포탄(소이탄)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Battery Pack": {
-            "name": "배터리 팩",
+            "_name": "배터리 팩",
             "description": "<p>경이 무기에 일반적으로 사용되는 충전식(1시간) 배터리 팩입니다. 8발의 샷이 포함되어 있으며 충전할 수 있습니다.&nbsp;</p>"
         },
         "Very Heavy Pistol (Basic)": {
-            "name": "매우 무거운 권총(기본)",
+            "_name": "매우 무거운 권총(기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Grenade (Poison)": {
-            "name": "수류탄 (독)",
+            "_name": "수류탄 (독)",
             "description": "<p>즉각적인 손상은 없습니다. 고기 목표물이 명중하면 DV13은 고문/약물 검사에 저항합니다. 실패 시 HP에 2d6 피해. 절제 없음. </p>"
         },
         "Medium Pistol (Armor-Piercing)": {
-            "name": "중형 권총(갑옷 관통)",
+            "_name": "중형 권총(갑옷 관통)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Arrow (Armor-Piercing)": {
-            "name": "화살 (갑옷 관통)",
+            "_name": "화살 (갑옷 관통)",
             "description": "<p>갑옷에 대한 이중 절제.</p>"
         },
         "Very Heavy Pistol (Incendiary)": {
-            "name": "매우 무거운 권총(소이탄)",
+            "_name": "매우 무거운 권총(소이탄)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Grenade (Biotoxin)": {
-            "name": "수류탄(생물 독소)",
+            "_name": "수류탄(생물 독소)",
             "description": "<p>즉각적인 손상은 없습니다. DV15에 맞으면 고문/약물 검사에 저항하십시오. 실패 시 HP에 3d6 피해. 절제 없음. </p>"
         },
         "Heavy Pistol (Incendiary)": {
-            "name": "헤비 피스톨 (소이탄)",
+            "_name": "헤비 피스톨 (소이탄)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Rifle (Incendiary)": {
-            "name": "소총 (소이탄)",
+            "_name": "소총 (소이탄)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Heavy Pistol (Rubber)": {
-            "name": "헤비 피스톨 (고무)",
+            "_name": "헤비 피스톨 (고무)",
             "description": "<p>심각한 부상을 입지 않습니다. 갑옷을 제거하지 않습니다. 대상에게 최소 1hp를 남깁니다. 경이 무기의 기본 탄약으로 계산</p>됩니다."
         },
         "Shotgun Slug (Expansive)": {
-            "name": "산탄총 슬러그(확장)",
+            "_name": "산탄총 슬러그(확장)",
             "description": "<p>Foreign object Critical을 굴리면(187페이지 참조) 피해자는 두 번째(다른) Critical Injury를 위해 굴립니다. 두 번째 부상은 추가 피해를 입히지 않습니다.</p>"
         },
         "Paintball (Basic)": {
-            "name": "페인트볼(기본)",
+            "_name": "페인트볼(기본)",
             "description": "<p>피해를 입히지 않는 일반 페인트볼. 그래도 짜증나.</p>"
         },
         "Shotgun Slug (Basic)": {
-            "name": "샷건 슬러그(기본)",
+            "_name": "샷건 슬러그(기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Shotgun Slug (Armor-Piercing)": {
-            "name": "산탄총 슬러그 (장갑 관통)",
+            "_name": "산탄총 슬러그 (장갑 관통)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Arrow (Sleep)": {
-            "name": "화살표(수면)",
+            "_name": "화살표(수면)",
             "description": "<p>피해를 주지 않습니다. 고기 대상이 DV13을 명중하면 고문/약물에 저항하십시오. 실패하면 엎드려서(169페이지 참조) 1분 동안 의식을 잃습니다. 손상이나 다른 사람이 터치/흔들리는 동작을 사용하여 깨울 수 있습니다.</p>"
         },
         "Rocket (Armor-Piercing)": {
-            "name": "로켓 (철갑구 공격구)",
+            "_name": "로켓 (철갑구 공격구)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Rocket (Smart)": {
-            "name": "로켓(스마트)",
+            "_name": "로켓(스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Grenade (Flashbang)": {
-            "name": "수류탄 (섬광탄)",
+            "_name": "수류탄 (섬광탄)",
             "description": "<p>피해를 주지 않습니다. 명중하면 DV15를 굴려 고문/약물에 저항합니다. 실패 시 손상된 눈과 손상된 귀 중상(188페이지 참조)을 1분 동안 치료하십시오. 크리티컬 피해를 입히지 않습니다. </p>"
         },
         "Arrow (Incendiary)": {
-            "name": "화살 (소이)",
+            "_name": "화살 (소이)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Grenade (EMP)": {
-            "name": "수류탄(EMP)",
+            "_name": "수류탄(EMP)",
             "description": "<p>DV15 Cybertech Check를 누르면. 실패 시 Cyberware 또는 휴대된 전자 제품(GM의 선택) 2개가 1분 동안 작동을 멈춥니다. 사이버 팔다리는 절단된 고기 팔처럼 느슨하게 매달려 있다(187쪽).</p>"
         },
         "Shotgun Slug (Smart)": {
-            "name": "산탄총 슬러그(스마트)",
+            "_name": "산탄총 슬러그(스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Heavy Pistol (Basic)": {
-            "name": "헤비 피스톨 (기본)",
+            "_name": "헤비 피스톨 (기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Rifle (Expansive)": {
-            "name": "소총 (확장)",
+            "_name": "소총 (확장)",
             "description": "<p>Foreign object Critical을 굴리면(187페이지 참조) 피해자는 두 번째(다른) Critical Injury를 위해 굴립니다. 두 번째 부상은 추가 피해를 입히지 않습니다.</p>"
         },
         "Shotgun Shell (Basic)": {
-            "name": "산탄총 포탄(기본)",
+            "_name": "산탄총 포탄(기본)",
             "description": "<p>기본 탄약, 특별한 것은 없습니다.</p>"
         },
         "Medium Pistol (Rubber)": {
-            "name": "중형 권총 (고무)",
+            "_name": "중형 권총 (고무)",
             "description": "<p>심각한 부상을 입지 않습니다. 갑옷을 제거하지 않습니다. 대상에게 최소 1hp를 남깁니다. 경이 무기의 기본 탄약으로 계산</p>됩니다."
         },
         "Rifle (Smart)": {
-            "name": "소총(스마트)",
+            "_name": "소총(스마트)",
             "description": "<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다. </p>"
         },
         "Very Heavy Pistol (Armor-Piercing)": {
-            "name": "매우 무거운 권총(갑옷 관통)",
+            "_name": "매우 무거운 권총(갑옷 관통)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Rifle (Rubber)": {
-            "name": "소총(고무)",
+            "_name": "소총(고무)",
             "description": "<p>심각한 부상을 입지 않습니다. 갑옷을 제거하지 않습니다. 대상에게 최소 1hp를 남깁니다. 경이 무기의 기본 탄약으로 계산</p>됩니다."
         },
         "Shotgun Slug (Rubber)": {
-            "name": "산탄총 슬러그(고무)",
+            "_name": "산탄총 슬러그(고무)",
             "description": "<p>심각한 부상을 입지 않습니다. 갑옷을 제거하지 않습니다. 대상에게 최소 1hp를 남깁니다. 경이 무기의 기본 탄약으로 계산</p>됩니다."
         },
         "Grenade (Sleep)": {
-            "name": "수류탄 (수면)",
+            "_name": "수류탄 (수면)",
             "description": "<p>피해를 주지 않습니다. 고기 대상이 DV13을 명중하면 고문/약물에 저항하십시오. 실패하면 엎드려서(169페이지 참조) 1분 동안 의식을 잃습니다. 손상이나 다른 사람이 터치/흔들리는 동작을 사용하여 깨울 수 있습니다.</p>"
         },
         "Arrow (Rubber)": {
-            "name": "화살표(고무)",
+            "_name": "화살표(고무)",
             "description": "<p>심각한 부상을 입지 않습니다. 갑옷을 제거하지 않습니다. 대상에게 최소 1hp를 남깁니다. 경이 무기의 기본 탄약으로 계산</p>됩니다."
         },
         "Grenade (Armor-Piercing)": {
-            "name": "수류탄 (갑옷 관통)",
+            "_name": "수류탄 (갑옷 관통)",
             "description": "<p>갑옷에 대한 이중 절제. </p>"
         },
         "Medium Pistol (Incendiary)": {
-            "name": "중형 권총 (소이탄)",
+            "_name": "중형 권총 (소이탄)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         },
         "Medium Pistol (Expansive)": {
-            "name": "중형 권총 (확장형)",
+            "_name": "중형 권총 (확장형)",
             "description": "<p>Foreign object Critical을 굴리면(187페이지 참조) 피해자는 두 번째(다른) Critical Injury를 위해 굴립니다. 두 번째 부상은 추가 피해를 입히지 않습니다.</p>"
         },
         "Shotgun Slug (Incendiary)": {
-            "name": "산탄총 슬러그(소이)",
+            "_name": "산탄총 슬러그(소이)",
             "description": "<p>대상에게 피해를 입히면 불이 붙습니다. 대상은 불을 끄기 위해 행동을 사용하지 않는 한 턴이 끝날 때 HP에 2의 피해를 입습니다. 중첩되지 않습니다. </p>"
         }
     }

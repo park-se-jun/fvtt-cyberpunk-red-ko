@@ -3,19 +3,19 @@
 
     "entries": {
         "Superflash Jacket": {
-            "name": "Superflash 재킷",
+            "_name": "Superflash 재킷",
             "description": "<p>놀라움을 선사하는 멋진 재킷; 이 재킷을 입은 사람은 누구나 배터리를 소모하여 눈부신 빛을 방출할 수 있는 액션을 사용할 수 있습니다. 전체 규칙은 1페이지의 Micro Chrome에서 찾을 수 있습니다.</p>"
         },
         "Chipware Compartment": {
-            "name": "칩웨어 컴파트먼트",
+            "_name": "칩웨어 컴파트먼트",
             "description": "<p>최대 4개의 칩웨어를 숨길 수 있으며 확인이 필요하지 않습니다. 전체 규칙은 1페이지의 Micro Chrome에서 찾을 수 있습니다.</p>"
         },
         "MicroCutie": {
-            "name": "마이크로큐티",
+            "_name": "마이크로큐티",
             "description": "<p>독특한 HypurrburstTM 모드 발사 모드*를 갖춘 우수한 품질의 권총입니다. 무기를 사용하면 가르랑거립니다. 전체 규칙은 1페이지의 Micro Chrome에서 찾을 수 있습니다.</p>\n<p><br><em>특수 발사 모드는 현재 지원되지 않으며 수동으로 적용해야 합니다</em></p>."
         },
         "Smart Lens": {
-            "name": "스마트 렌즈",
+            "_name": "스마트 렌즈",
             "description": "<p>사용자에게 단일 Cybereye 옵션을 제공합니다. 한쪽 눈당 하나의 스마트 렌즈를 사용할 수 있습니다.</p>"
         }
     }

@@ -3,47 +3,47 @@
 
     "entries": {
         "Dismembered Arm": {
-            "name": "절단된 팔",
+            "_name": "절단된 팔",
             "description": "<p>팔을 제거하고 잡고 있던 모든 것을 떨어뜨립니다.</p>"
         },
         "Crushed Fingers": {
-            "name": "짓밟힌 손가락",
+            "_name": "짓밟힌 손가락",
             "description": "<p>-4 핸드 액션.</p>"
         },
         "Broken Ribs": {
-            "name": "부러진 갈비뼈",
+            "_name": "부러진 갈비뼈",
             "description": "<p>도보로 4m/yrds 이상 이동하는 경우 턴이 끝날 때 치명타 피해를 입습니다.</p>"
         },
         "Collapsed Lung": {
-            "name": "허탈된 폐",
+            "_name": "허탈된 폐",
             "description": "<p>-2 이동(최소 이동 1).</p>"
         },
         "Broken Arm": {
-            "name": "부러진 팔",
+            "_name": "부러진 팔",
             "description": "<p>팔을 사용할 수 없습니다. 들고 있던 것을 떨어뜨립니다.</p>"
         },
         "Torn Muscle": {
-            "name": "찢어진 근육",
+            "_name": "찢어진 근육",
             "description": "<p>근접 공격에 -2.</p>"
         },
         "Spinal Injury": {
-            "name": "척추 부상",
+            "_name": "척추 부상",
             "description": "<p>다음 턴: 행동 없이 이동만 합니다.</p>"
         },
         "Dismembered Leg": {
-            "name": "절단된 다리",
+            "_name": "절단된 다리",
             "description": "<p>다리가 제거됩니다. 회피할 수 없습니다. -6 이동(최소 이동 1).</p>"
         },
         "Foreign Object": {
-            "name": "이물질",
+            "_name": "이물질",
             "description": "<p>도보로 4m/yrds 이상 이동하면 턴이 끝날 때 크리티컬 피해를 입습니다.</p>"
         },
         "Dismembered Hand": {
-            "name": "절단된 손",
+            "_name": "절단된 손",
             "description": "<p>손을 떼고 들고 있던 모든 것을 떨어뜨립니다.</p>"
         },
         "Broken Leg": {
-            "name": "부러진 다리",
+            "_name": "부러진 다리",
             "description": "<p>-4 이동(최소 이동 1).</p>"
         }
     }

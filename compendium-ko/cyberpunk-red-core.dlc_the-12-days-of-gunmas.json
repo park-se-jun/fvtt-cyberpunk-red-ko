@@ -3,59 +3,59 @@
 
     "entries": {
         "Chainknife": {
-            "name": "체인나이프",
+            "_name": "체인나이프",
             "description": "<p>회전수를 늘리기 위해 행동을 취하지만 한 번 회전하면 강력한 근접 무기가 됩니다. 회전하지 않을 때는 2d6 데미지*를 입힙니다.</p>\n<p><em>*회전하지 않는 모드는 현재 지원되지 않으므로 수동으로 피해를 줄여야 합니다</em></p>."
         },
         "Nova Model 757 Rounds": {
-            "name": "노바 모델 757 라운드",
+            "_name": "노바 모델 757 라운드",
             "description": "<p>Nova Model 757 Cityhunter에만 사용할 수 있습니다. 일반 10개 대신 18개 팩으로 제공됩니다.</p>\n<p>&nbsp;</p>\n<p>Req Targeting Scope Cyberware, 그렇지 않으면 실행되지 않습니다. 한 번의 공격을 4 이하로 빗나가면 두 번째 공격을 동일한 DV 1d10+10 (일반 스탯이 아님)으로 굴립니다. 행운을 더할 수 있습니다. 대상은 가능한 경우 평소와 같이 두 번째 구르기를 피할 수 있습니다.</p>"
         },
         "Nomad Pneumatic Bolt Gun": {
-            "name": "Nomad 공압 볼트 건",
+            "_name": "Nomad 공압 볼트 건",
             "description": "<p>기본이 아닌 모든 탄약을 발사할 수 있는 이 무기는 20여 년 전에 발명되었을 때와 마찬가지로 여전히 다재다능합니다.</p>"
         },
         "Sub-Flechette Rounds": {
-            "name": "서브 플레솃 라운드",
+            "_name": "서브 플레솃 라운드",
             "description": "<p>Malorian Arms Sub-Flechette Gun에만 사용할 수 있는 특수 탄약입니다. 적중 시 방어구를 SP4 감소시킨다.</p>"
         },
         "Hellbringer": {
-            "name": "지옥인도자",
+            "_name": "지옥인도자",
             "description": "<p>이 물건이 촬영될 때, 당신은 그것에 대해 알게 됩니다. BODY가 10 미만인 사람이 발사하면 이 권총이 걸립니다. 방해를 풀려면 조치가 필요합니다.</p>"
         },
         "WAA Bullpup Assault Weapon": {
-            "name": "WAA 불펍 돌격 무기",
+            "_name": "WAA 불펍 돌격 무기",
             "description": "<p>20년 넘게 운용되고 있는 불펍 소총. 기본이 아닌 탄약을 발사할 수 있으며 Smartgun Link*가 함께 제공됩니다.</p>\n<p><em>*Smartgun Link는 무기 획득 후 수동으로 추가해야 합니다.</em></p>"
         },
         "Crusher": {
-            "name": "순경",
+            "_name": "순경",
             "description": "<p>산탄총 탄피를 발사하는 권총입니다. 사랑하지 않을 이유가 어디 있겠습니까?</p>"
         },
         "Teen Dreem": {
-            "name": "틴 드림",
+            "_name": "틴 드림",
             "description": "<p>이 SMG는 마지막 2발의 총알까지 자동 발사와 억제 사격을 사용할 수 있습니다. 그러나 두 발사 모드 중 하나를 사용하면 총이 수리할 수 없을 정도로 녹기 때문에 주의가 필요합니다.</p>"
         },
         "Multiple Ammunition Pistol": {
-            "name": "다연장 탄약 권총",
+            "_name": "다연장 탄약 권총",
             "description": "<p>한 번에 최대 5가지 유형의 탄약을 장전할 수 있는 매우 무거운 권총*으로, 사용자는 발사하기 전에 탄약 중에서 선택할 수 있습니다.</p>\n<p><em>*현재 지원되지 않으므로 사용자가 수동으로 탄약 유형을 변경해야 합니다.</em></p>"
         },
         "Sub-Flechette Gun": {
-            "name": "서브 플레솃 건",
+            "_name": "서브 플레솃 건",
             "description": "<p>이 SMG는 자체 맞춤형 갑옷 관통 탄약만 발사할 수 있지만 피해를 입히면 탄약이 4 감소합니다. Smartgun Link*와 함께 제공됩니다.</p>\n<p><em>*Smartgun Link는 무기 획득 후 수동으로 추가해야 합니다.</em></p>"
         },
         "Dragon Flamethrower": {
-            "name": "드래곤 화염방사기",
+            "_name": "드래곤 화염방사기",
             "description": "<p>손끝에서 발사하십시오. 소이탄 탄환만 발사할 수 있지만, 이 무기에 불이 붙은 대상은 한 턴에 4HP를 소모합니다.</p>"
         },
         "ST-5 Assault Rifle": {
-            "name": "ST-5 돌격소총",
+            "_name": "ST-5 돌격소총",
             "description": "<p>A - 상대적으로 - 신뢰할 수 있는 총. 공격(크리티컬 실패)에 1을 굴리면 동전을 던져야 합니다. 이기면 총이 정상적으로 발사되고 지면 총이 걸리고 지우기 위해 액션을 사용해야 합니다.</p>"
         },
         "Nova Model 757 Cityhunter": {
-            "name": "노바 모델 757 시티헌터",
+            "_name": "노바 모델 757 시티헌터",
             "description": "<p>이 권총은 18개 팩으로 구입한 자체 맞춤형 탄환을 발사하지만 가격은 10개 팩과 같습니다. Smartgun Link*와 함께 제공됩니다.</p>\n<p><em>*Smartgun Link는 무기 획득 후 수동으로 추가해야 합니다.</em></p>"
         },
         "ARS-5 Submachine Gun": {
-            "name": "ARS-5 기관단총",
+            "_name": "ARS-5 기관단총",
             "description": "<p>이 무거운 기관단총은 완전한 패키지로, 스마트건 링크, 적외선 야간 투시경, 저격 조준경*이 포함되어 있습니다.</p>\n<p><em>*세 가지 모두 무기를 획득한 후 수동으로 추가해야 합니다.</em></p>"
         }
     }

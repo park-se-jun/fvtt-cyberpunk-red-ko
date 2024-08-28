@@ -3,227 +3,227 @@
 
     "entries": {
         "Cyberdeck": {
-            "name": "사이버덱",
+            "_name": "사이버덱",
             "description": "<p>넷러너 덱. 7개의 슬롯.</p>"
         },
         "Linear Frame ∑ (Sigma)": {
-            "name": "리니어 프레임 ∑ (시그마)",
+            "_name": "리니어 프레임 ∑ (시그마)",
             "description": "<p>외골격. 인터페이스 플러그 1개가 필요합니다. 연결되어 있는 동안 BODY를 12로 증가시킵니다. HP나 데스세이브에는 변화가 없습니다. </p>"
         },
         "Drum Synthesizer": {
-            "name": "드럼 신디사이저",
+            "_name": "드럼 신디사이저",
             "description": "<p>앰프에 연결하면 드럼 소리가 납니다.</p>"
         },
         "Computer": {
-            "name": "컴퓨터",
+            "_name": "컴퓨터",
             "description": "<p>데스크톱 또는 노트북.</p>"
         },
         "Techscanner": {
-            "name": "테크스캐너",
+            "_name": "테크스캐너",
             "description": "<p>여러 기술 기반 기술에 +2.</p>"
         },
         "Glow Paint": {
-            "name": "글로우 페인트",
+            "_name": "글로우 페인트",
             "description": "<p>야광 효과가 있는 스프레이 페인트.</p>"
         },
         "Radiation Suit": {
-            "name": "방사선 보호복",
+            "_name": "방사선 보호복",
             "description": "<p>방사선으로부터 착용자를 보호합니다.</p>"
         },
         "Cyberdeck (Excellent)": {
-            "name": "Cyberdeck (우수)",
+            "_name": "Cyberdeck (우수)",
             "description": "<p>넷러너 덱. 슬롯 9개.</p>"
         },
         "Scrambler/Descrambler": {
-            "name": "스크램블러/디스크램블러",
+            "_name": "스크램블러/디스크램블러",
             "description": "<p>통신 스크램블러/수신기.</p>"
         },
         "Radio Communicator": {
-            "name": "라디오 커뮤니케이터",
+            "_name": "라디오 커뮤니케이터",
             "description": "<p>범위: 1마일. 인이어.</p>"
         },
         "Cyberdeck (Poor)": {
-            "name": "사이버덱(나쁨)",
+            "_name": "사이버덱(나쁨)",
             "description": "<p>넷러너 덱. 슬롯 5개.</p>"
         },
         "Virtuality Goggles": {
-            "name": "가상 고글",
+            "_name": "가상 고글",
             "description": "<p>사이버 공간 이미지를 비전에 오버레이합니다.</p>"
         },
         "Road Flare": {
-            "name": "로드 플레어",
+            "_name": "로드 플레어",
             "description": "<p>범위: 100m/yd. 소요 시간: 1시간.</p>"
         },
         "Braindance Viewer": {
-            "name": "브레인댄스 뷰어",
+            "_name": "브레인댄스 뷰어",
             "description": "<p>브레인댄스 시청 장치.</p>"
         },
         "Bug Detector": {
-            "name": "버그 감지기",
+            "_name": "버그 감지기",
             "description": "<p>청취 장치를 감지합니다. 범위 2m/yds.</p>"
         },
         "Techtool": {
-            "name": "테크툴",
+            "_name": "테크툴",
             "description": "<p>다목적 도구.</p>"
         },
         "Agent": {
-            "name": "대리인",
+            "_name": "대리인",
             "description": "<p>AI 스마트폰. +2 도서관 검색, +2 상황에 따라 의상 및 스타일.</p>"
         },
         "Tracer Button": {
-            "name": "트레이서 버튼",
+            "_name": "트레이서 버튼",
             "description": "<p>유도 추적기로 최대 1마일 떨어진 곳에서 추적할 수 있습니다.</p>"
         },
         "Binoculars": {
-            "name": "쌍안경",
+            "_name": "쌍안경",
             "description": "<p>배율 : x2 또는 x3.</p>"
         },
         "Cryopump": {
-            "name": "크라이오 펌프",
+            "_name": "크라이오 펌프",
             "description": "<p>부상자를 연결하는 데 사용되는 서류 가방. 정지 상태에 놓습니다. </p>"
         },
         "Memory Chip": {
-            "name": "메모리 칩",
+            "_name": "메모리 칩",
             "description": "<p>데이터 스토리지.</p>"
         },
         "Anti-Smog Breathing Mask": {
-            "name": "안티 스모그 호흡 마스크",
+            "_name": "안티 스모그 호흡 마스크",
             "description": "<p>공기 중 독소 필터.</p>"
         },
         "Audio Recorder": {
-            "name": "오디오 레코더",
+            "_name": "오디오 레코더",
             "description": "<p>메모리 칩에 24시간 오디오를 녹음합니다.</p>"
         },
         "Chemical Analyzer": {
-            "name": "화학물질 분석기",
+            "_name": "화학물질 분석기",
             "description": "<p>샘플 데이터베이스를 사용하여 화학 조성을 결정합니다.</p>"
         },
         "Cryotank": {
-            "name": "크라이오 탱크",
+            "_name": "크라이오 탱크",
             "description": "<p>실물 크기의 인간을 안고 있으며, 평소보다 빠르게 부상을 치유합니다. </p>"
         },
         "Auto Level Dampening Ear Protectors": {
-            "name": "자동 레벨 감쇠 귀 보호기",
+            "_name": "자동 레벨 감쇠 귀 보호기",
             "description": "<p>착용자는 시끄러운 소리에 영향을 받지 않습니다.</p>"
         },
         "Disposable Cell Phone": {
-            "name": "일회용 휴대 전화",
+            "_name": "일회용 휴대 전화",
             "description": "<p>음성 통화만 가능합니다.</p>"
         },
         "Radar Detector": {
-            "name": "레이더 감지기",
+            "_name": "레이더 감지기",
             "description": "<p>레이더 빔을 감지합니다. 범위: 100m/야드</p>"
         },
         "Homing Tracer": {
-            "name": "유도 트레이서",
+            "_name": "유도 트레이서",
             "description": "<p>범위: 1마일.</p>"
         },
         "Airhypo": {
-            "name": "에어하이포",
+            "_name": "에어하이포",
             "description": "<p>피하 주사기.</p>"
         },
         "Inflatable Bed & Sleep-bag": {
-            "name": "팽창식 침대 & 슬립백",
+            "_name": "팽창식 침대 & 슬립백",
             "description": "<p>휴대용 수면 세트.</p>"
         },
         "Grapple Gun": {
-            "name": "그래플 건",
+            "_name": "그래플 건",
             "description": "<p>범위: 30m/yds. 무기로 사용할 수 없습니다.</p>"
         },
         "Duct Tape": {
-            "name": "덕트 테이프",
+            "_name": "덕트 테이프",
             "description": "<p>테이프로 테이프를 붙이는 데 사용하십시오.</p>"
         },
         "Kibble Pack": {
-            "name": "키블 팩",
+            "_name": "키블 팩",
             "description": "<p>한 끼 식사.</p>"
         },
         "Pocket Amplifier": {
-            "name": "포켓 앰프",
+            "_name": "포켓 앰프",
             "description": "<p>소요 시간 : 6 시간. 두 가지 악기를 지원합니다.</p>"
         },
         "Battleglove": {
-            "name": "배틀글러브",
+            "_name": "배틀글러브",
             "description": "<p>손과 팔뚝을 덮는 이국적인 무거운 건틀릿입니다. 세 가지 옵션 슬롯을 제공합니다. 347페이지의 전체 항목 설명을 참조하십시오.</p>"
         },
         "Electric Guitar/Other Instrument": {
-            "name": "일렉트릭 기타/기타 악기",
+            "_name": "일렉트릭 기타/기타 악기",
             "description": "<p>악기. 전기 기기에는 증폭기가 필요합니다.</p>"
         },
         "Tent and Camping Equipment": {
-            "name": "텐트 및 캠핑 장비",
+            "_name": "텐트 및 캠핑 장비",
             "description": "<p>1인용.</p>"
         },
         "Video Camera": {
-            "name": "비디오 카메라",
+            "_name": "비디오 카메라",
             "description": "<p>메모리 칩당 12시간.</p>"
         },
         "MRE": {
-            "name": "MRE (엠레)",
+            "_name": "MRE (엠레)",
             "description": "<p>휴대용 식사. 자체 발열.</p>"
         },
         "Vial of Poison": {
-            "name": "독이 담긴 약병",
+            "_name": "독이 담긴 약병",
             "description": "<p>고문/약물에 저항하지 않는 한 2d6 피해. 방어구는 적용되지 않습니다.</p>"
         },
         "Rope (60m/yd)": {
-            "name": "로프(60m/yd)",
+            "_name": "로프(60m/yd)",
             "description": "<p>나일론.</p>"
         },
         "Glow Stick": {
-            "name": "글로우 스틱",
+            "_name": "글로우 스틱",
             "description": "<p>소요 시간: 10시간. 범위: 4m/yds.</p>"
         },
         "Smart Glasses": {
-            "name": "스마트 안경",
+            "_name": "스마트 안경",
             "description": "<p>사이버아이 옵션을 위한 두 가지 옵션 슬롯이 있는 안경.</p>"
         },
         "Food Stick": {
-            "name": "푸드 스틱",
+            "_name": "푸드 스틱",
             "description": "<p>식사 대용 바.</p>"
         },
         "Medtech Bag": {
-            "name": "메드텍 백",
+            "_name": "메드텍 백",
             "description": "<p>의료 장비.</p>"
         },
         "Radio Scanner/Music Player": {
-            "name": "라디오 스캐너/음악 플레이어",
+            "_name": "라디오 스캐너/음악 플레이어",
             "description": "<p>무선 전송을 수신합니다. 범위: 1마일.</p>"
         },
         "Flashlight": {
-            "name": "손전등",
+            "_name": "손전등",
             "description": "<p>한 번 충전으로 10시간 동안 사용할 수 있습니다. 100m/야드 범위.</p>"
         },
         "Vial of Biotoxin": {
-            "name": "Biotoxin의 작은 병",
+            "_name": "Biotoxin의 작은 병",
             "description": "<p>고문/약물에 저항하지 않는 한 3d6 손상. 방어구는 적용되지 않습니다.</p>"
         },
         "Tech Bag": {
-            "name": "테크 백",
+            "_name": "테크 백",
             "description": "<p>도구 가방.</p>"
         },
         "Handcuffs": {
-            "name": "수갑",
+            "_name": "수갑",
             "description": "<p>BODY>10이 깨질 수 있습니다.</p>"
         },
         "Lock Picking Set": {
-            "name": "자물쇠 따기 세트",
+            "_name": "자물쇠 따기 세트",
             "description": "<p>기계식 잠금 장치를 선택하는 데 필요합니다.</p>"
         },
         "Personal CarePak": {
-            "name": "퍼스널 케어팩",
+            "_name": "퍼스널 케어팩",
             "description": "<p>칫솔 등</p>"
         },
         "Linear Frame β (Beta)": {
-            "name": "Linear Frame β(베타)",
+            "_name": "Linear Frame β(베타)",
             "description": "<p>외골격. 2개의 인터페이스 플러그가 필요합니다. 전원이 연결되어 있는 동안 BODY를 14로 증가시킵니다. HP나 데스세이브에는 변화가 없습니다. </p>"
         },
         "Medscanner": {
-            "name": "메드스캐너",
+            "_name": "메드스캐너",
             "description": "<p>+2 응급 처치 또는 구급대원 검사.</p>"
         },
         "Carryall": {
-            "name": "캐리올",
+            "_name": "캐리올",
             "description": "<p>가방.</p>"
         }
     }

@@ -3,47 +3,47 @@
 
     "entries": {
         "Broken Jaw": {
-            "name": "부러진 턱",
+            "_name": "부러진 턱",
             "description": "<p>-4 음성 동작.</p>"
         },
         "Whiplash": {
-            "name": "충격",
+            "_name": "충격",
             "description": "<p>기본 데스 세이브 페널티를 1 증가시키는 것 외에 다른 효과는 없습니다.</p>"
         },
         "Cracked Skull": {
-            "name": "금이 간 두개골",
+            "_name": "금이 간 두개골",
             "description": "<p>조준 헤드샷 시 HP의 피해가 3배로 증가합니다(일반적인 이중 피해가 아닌).</p>"
         },
         "Crushed Windpipe": {
-            "name": "분쇄된 기관관",
+            "_name": "분쇄된 기관관",
             "description": "<p>말을 할 수 없다.</p>"
         },
         "Brain Injury": {
-            "name": "뇌 손상(Brain Injury)",
+            "_name": "뇌 손상(Brain Injury)",
             "description": "<p>-2를 동작에 추가합니다.</p>"
         },
         "Lost Ear": {
-            "name": "귀를 잃었다",
+            "_name": "귀를 잃었다",
             "description": "<p>귀가 제거됩니다. 한 턴에 4m/yds 이상 이동하면 다음 턴에 이동할 수 없습니다. 청각 기반 지각에 -4.</p>"
         },
         "Damaged Ear": {
-            "name": "손상된 귀",
+            "_name": "손상된 귀",
             "description": "<p>한 턴에 4m/yds 이상 이동하면 다음 턴에 이동할 수 없습니다. -2 청각 기반 지각.</p>"
         },
         "Damaged Eye": {
-            "name": "손상된 눈",
+            "_name": "손상된 눈",
             "description": "<p>원거리 및 지각(시야)에 -2.</p>"
         },
         "Lost Eye": {
-            "name": "잃어버린 눈",
+            "_name": "잃어버린 눈",
             "description": "<p>눈이 제거됩니다. 원거리 공격 및 시야 기반 지각에 -4.</p>"
         },
         "Foreign Object (H)": {
-            "name": "이물질(H)",
+            "_name": "이물질(H)",
             "description": "<p>도보로 4m/yrds 이상 이동하면 턴이 끝날 때 크리티컬 피해를 입습니다.</p>"
         },
         "Concussion": {
-            "name": "뇌 진 탕",
+            "_name": "뇌 진 탕",
             "description": "<p>모든 행동에 -2.</p>"
         }
     }

@@ -3,19 +3,19 @@
 
     "entries": {
         "Duel Caster": {
-            "name": "듀얼 캐스터",
+            "_name": "듀얼 캐스터",
             "description": "<p>ELO 카드용 플라스틱 하우징 및 카드 런처. ROF 3: 내 차례에 무기만 발사된 경우. 일반 플레잉 카드로도 장전할 수 있지만 무기의 품질이 떨어집니다.</p>"
         },
         "Elflines Online Playing Cards": {
-            "name": "Elflines 온라인 카드 놀이",
+            "_name": "Elflines 온라인 카드 놀이",
             "description": "<p>Elfines Online The Trading Card Game을 플레이하는 데 사용되는 카드입니다.</p>"
         },
         "Sword of Arvish": {
-            "name": "아르비쉬의 검",
+            "_name": "아르비쉬의 검",
             "description": "<p>칼날이 달린 칼자루가 달린 무기였다. 절단 또는 스러스트를 위해 특별히 설계되었습니다. 공격 시 1을 굴리면(크리티컬 실패) 무기가 착용자의 손가락을 으스러뜨립니다.</p>"
         },
         "Scarlet Blackbow": {
-            "name": "스칼렛 블랙보우",
+            "_name": "스칼렛 블랙보우",
             "description": "<p>공격할 때마다 재장전해야 하는 활이 되살아납니다. 공격 시 1을 굴리면(크리티컬 실패) 활의 배터리 팩이 폭발합니다. 화살통과 6개의 고무 화살이 번들로 제공됩니다.</p>"
         }
     }

@@ -3,39 +3,39 @@
 
     "entries": {
         "Reflex Co-Processor": {
-            "name": "Reflex 코프로세서",
+            "_name": "Reflex 코프로세서",
             "description": "<p>신경웨어. 총알을 피하기 위한 REF 요구 사항을 무효화합니다. (자세한 내용은 블랙 크롬 페이지 21 참조)</p>"
         },
         "Firebreather": {
-            "name": "화염 호흡기",
+            "_name": "화염 호흡기",
             "description": "<p>이식된 경이 산탄총. 소이탄 산탄총 포탄은 1개만 장착할 수 있습니다. </p>\n<p>Interface Red vol. 2의 73페이지에 있는 전체 설명을 참조하십시오.</p>"
         },
         "Heuristic Health Monitor": {
-            "name": "휴리스틱 상태 모니터",
+            "_name": "휴리스틱 상태 모니터",
             "description": "<p>바이오모니터가 필요합니다. HP를 한눈에 알 수 있습니다. (자세한 내용은 블랙 크롬 페이지 19 참조)</p>"
         },
         "Extra-Jointed Cyberleg Upgrade": {
-            "name": "Extra-Jointed Cyberleg 업그레이드",
+            "_name": "Extra-Jointed Cyberleg 업그레이드",
             "description": "<p>사이버 다리 관절을 쏠 수 있습니다. +2 곡예사. (자세한 내용은 블랙 크롬 18페이지 참조)</p>"
         },
         "Combat Tail": {
-            "name": "컴뱃 테일",
+            "_name": "컴뱃 테일",
             "description": "<p>이식된 중화기 Neural Link가 필요합니다.</p>\n<p>Interface Red vol. 2의 72페이지에 있는 전체 설명을 참조하십시오.</p>"
         },
         "Extra-Jointed Cyberarm Upgrade": {
-            "name": "Extra-Jointed Cyberarm 업그레이드",
+            "_name": "Extra-Jointed Cyberarm 업그레이드",
             "description": "<p>사이버암 관절을 사용할 수 있습니다. +2 곡예사. (자세한 내용은 블랙 크롬 18페이지 참조)</p>"
         },
         "NeuTongue": {
-            "name": "뉴텅",
+            "_name": "뉴텅",
             "description": "<p>풍미 감각을 시뮬레이션합니다. 연결된 에이전트를 사용하여 플레이버 프로필을 사용자 지정합니다. 작업 없이 비활성화할 수 있습니다. 비활성화 시 미각이 없습니다.</p>\n<p>고기 혀를 대체합니다.</p>"
         },
         "Appetite Controller": {
-            "name": "식욕 조절제",
+            "_name": "식욕 조절제",
             "description": "<p>배고픔 반응을 억제합니다. 사용자는 굶주림 트라우마로 인한 인간성 손실 페널티를 무시하지만 사용자는 여전히 굶어 죽을 수 있습니다. 먹지 않고 7일 연속으로 시작할 때 데스 세이브를 굴립니다. 이후 매일 연속 데스 세이브에 +1.</p>\n<p>바이오모니터가 필요합니다.</p>"
         },
         "Combat Jaw": {
-            "name": "컴뱃 죠",
+            "_name": "컴뱃 죠",
             "description": "<p>매우 무거운 근접 무기를 이식했습니다.</p>\n<p>Interface Red vol. 2의 72페이지에 있는 전체 설명을 참조하십시오.</p>"
         }
     }
