@@ -9,6 +9,21 @@ FoundaryVTT 의 Cyberpunk Red 시스템과 컨펜디움 번역 모듈입니다.
 
 현재 기계번역 상태이기 때문에 어색한 부분이 다수 있습니다.
 
+번역이 부자연스러운 부분이 있거나 요청사항이 있다면 PR 보내주시거나 이슈 만들어 주세요.
+
+p.s REF(반사신경)의 번역명 길이 문제로 캐릭터 시트가 깨집니다. 
+customCSS 모듈로 폰트 크기를 조절하시거나 아래의 css 구문을 추가해 주세요.
+```css
+.actor-sheet{
+	grid-template-rows: 36rem auto;
+	grid-template-columns: 18.313rem auto;
+}
+.actor-sheet .left-pane{
+	grid-template-columns: 13rem 5rem;
+}
+```
+
+
 테스트한 사이버펑크 모듈 버전 - v0.88.2
 
 ## Credit
