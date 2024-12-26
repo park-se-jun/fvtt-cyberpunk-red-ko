@@ -1,0 +1,149 @@
+{
+  "label": "Edgerunners Mission Kit",
+  "mapping": {
+    "설명": "system.description.value"
+  },
+  "entries": {
+    "Advanced Quickhacks (DV12)": {
+      "설명": "<p>Netrunners in the 2070s gain access to Advanced Quickhacks at Inferface 4. These do not need to be installed in a Cyberdeck, and are gained automatically. (see more information on Edgerunners Mission Kit Rule Book pg.16)</p>"
+    },
+    "Arrow (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Berserk Implant": {
+      "설명": "<p>Can be activated as an Action. When active, user may ignore the effects of wound states for 60 seconds (20 Rounds). Mortally Wounded characters must still make Death Saves.</p><p>After expiry, Berserk can not be activated again for 1 hour.</p>"
+    },
+    "Carnage": {
+      "설명": "<p>An all-purpose shotgun. If you roll 1 on Attack (Crit fail) the gun jams and requires using an action to clear. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.oBDXlMIn6eVkgwCk]{Power Rebuild}. </p><p>Requires BODY 10 to use, or the user will suffer the Torn Muscle Critical Injury if fired.</p>"
+    },
+    "Crusher-207X": {
+      "설명": "<p>An Exotic very heavy pistol. It can't be concealed. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.oBDXlMIn6eVkgwCk]{Power Rebuild}. Fires Shotgun Shells.</p>"
+    },
+    "David's Experimental Sandevistan": {
+      "설명": "<p><strong>Borgware. Speedware.</strong> Activating does not cost an action. Take 2d6 Humanity Loss upon activation. When activated in combat, user is immediately placed at the top of the initiative. If activated on their turn, instead grants an additional Action or MOVE action.</p><p>If activated by a character with Negative Humanity, instead take 2d6 damage, bypassing armor.</p><p>Only a single piece of speedware can be installed at a time.</p>"
+    },
+    "DB-2 Satara Shotgun": {
+      "설명": "<p>An Exotic all-purpose shotgun. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.SIHYBlDObA0XS9Ai]{Tech Rebuild}. Each barrel can load separate ammunition. Can load non-basic ammunition.</p>"
+    },
+    "Difficult Quickhacks (DV10)": {
+      "설명": "<p>Netrunners in the 2070s gain access to Difficult Quickhacks at Inferface 3. These do not need to be installed in a Cyberdeck, and are gained automatically. (see more information on Edgerunners Mission Kit Rule Book pg.16)</p>"
+    },
+    "Ex-Disk": {
+      "설명": "<p>Requires Neuroport Cyberdeck Port. Contains one hardware only slot for Cyberdeck Hardware. Two or more installations grants an additional NET action when physically plugged in via Interface Plugs.</p>"
+    },
+    "Gorilla Arm": {
+      "설명": "<p>Excellent Heavy Melee Weapon. May wield weapon in the arm's hand as if they had BODY 11. If purchased twice in a pair on two seperate Cyberarms, the user can also pry open doors/move Thick Cover, Choke, and Slam as if they had BODY 11.</p>"
+    },
+    "Grenade (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Heavy Pistol (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "HJKE-11 Yukimura": {
+      "설명": "<p>An Exotic concealable SMG. Comes with a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.Nv5MkmCvzRrdl2rC]{Smart Rebuild}. Deals 3d6 damage in single-shot, expending 3 rounds. </p><p>Deals 2d6 if there is not enough ammo.</p>"
+    },
+    "HJSH-18 Masamune": {
+      "설명": "<p>An Exotic assault rifle. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.oBDXlMIn6eVkgwCk]{Power Rebuild}. Expends 3 rounds. Deals 4d6 damage if there is not enough ammo for a 3 round burst.</p>"
+    },
+    "Holophone": {
+      "설명": "<p>Built in holophone. Audio only but can be linked with other cybergear. Comes pre-installed into a Neuroport.</p>"
+    },
+    "HUD": {
+      "설명": "<p>Tiny screen in your eye. Provides picture-in-picture for those boring moments. Comes pre-installed into a Neuroport.</p>"
+    },
+    "Immunoblockers": {
+      "설명": "<p><strong>Primary Effect</strong></p><ul><li><p>Restores 2d6 Humanity. This lasts for one month.</p></li></ul><p><strong>Secondary Effect (DV21)</strong></p><p>When the dose wears off, the user rolls WILL +Resist Torture/Drugs + 1d10 against Secondary DV.</p><ul><li><p>All Humanity gained via Immunoblockers is lost</p></li><li><p>The GM may describe mild hallucinations</p></li><li><p>-2 to all checks for 60 seconds (20 Rounds)</p><ul><li><p>If 2 additional doses are not taken, user loses 4d6 Humanity</p></li></ul></li><li><p>If Humanity is reduced to negative, the Gm may grant +2 to any check.</p></li></ul><p></p>"
+    },
+    "L-69 Zhuo": {
+      "설명": "<p>An Exotic all-purpose shotgun. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.Nv5MkmCvzRrdl2rC]{Smart Rebuild}. May only use Improved Smart Shotgun Shells. 8 shells are expended when fired, and will not fire if there are less than 8 shells.</p><p>Shell damage increased to 4d6.</p>"
+    },
+    "M-10AF Lexington": {
+      "설명": "<p>An Exotic concealable, heavy pistol. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.oBDXlMIn6eVkgwCk]{Power Rebuild}. </p>"
+    },
+    "M-76e Omaha": {
+      "설명": "<p>An Exotic concealable, heavy pistol. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.SIHYBlDObA0XS9Ai]{Tech Rebuild}. Remains charged until after a turn in which it is fired. Retains ROF 2, and expends up to 3 rounds when fired.</p>"
+    },
+    "Mantis Blade": {
+      "설명": "<p>Excellent Quality Heavy Melee Weapon which can be concealed without a check, and can be drawn/stowed with an action. While active, user can not hold anything in that arm's hand. If purchased in a pair on two seperate Cyberarms, user can negate the normal movement penalty for climbing while both blades are popped up.</p>"
+    },
+    "Medium Pistol (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Monowire": {
+      "설명": "<p>Concealable One-Handed Exotic Heavy Melee Weapon capable of making melee attacks from up to 6 m/yds (3 squares) away. Upon inflicting a critical injury, roll twice. The aggressor chooses which effect is suffered.</p>"
+    },
+    "Nekomata": {
+      "설명": "<p>An Exotic long-distance sniper rifle. Holds 4 bullets in a magazine. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.SIHYBlDObA0XS9Ai]{Tech Rebuild}, the benefits of which extends to Thick Cover as well as Thin Cover.</p>"
+    },
+    "Neuroport": {
+      "설명": "<p>Grants the effects of the following:</p><ul><li><p><strong>Neural Link:</strong> Contains all option slots. None of the additions listed in the Neuroport take up any option slots.</p></li><li><p><strong>Holophone:</strong> A functioning phone. Does not have an AI like an Agent.</p></li><li><p><strong>Biomonitor:</strong> Monitors the user's health.</p></li><li><p><strong>Virtu (AKA Virtuality):</strong> Allows the user to experience virtual events and performances, and can function as Virtuality Goggles. Does not display braindances.</p></li><li><p><strong>HUD (aka Chyron):</strong> Displays information from the Biomonitor, HUD, Holophone, etc. Also provides translations for spoken languages.</p></li><li><p><strong>Two Shard Slots (aka Chipware Sockets):</strong> Allows the use of Chipware.</p></li><li><p><strong>Personal Link (aka Interface Plug):</strong> Allows direct linking to machinery and computers which support it.</p></li></ul>"
+    },
+    "Neuroport (Free)": {
+      "설명": "<p>Use this variation when applying during character creation.</p><p>Grants the effects of the following:</p><ul><li><p><strong>Neural Link:</strong> Contains all option slots. None of the additions listed in the Neuroport take up any option slots.</p></li><li><p><strong>Holophone:</strong> A functioning phone. Does not have an AI like an Agent.</p></li><li><p><strong>Biomonitor:</strong> Monitors the user's health.</p></li><li><p><strong>Virtu (AKA Virtuality):</strong> Allows the user to experience virtual events and performances, and can function as Virtuality Goggles. Does not display braindances.</p></li><li><p><strong>HUD (aka Chyron):</strong> Displays information from the Biomonitor, HUD, Holophone, etc. Also provides translations for spoken languages.</p></li><li><p><strong>Two Shard Slots (aka Chipware Sockets):</strong> Allows the use of Chipware.</p></li><li><p><strong>Personal Link (aka Interface Plug):</strong> Allows direct linking to machinery and computers which support it.</p></li></ul>"
+    },
+    "Neuroport Biomonitor": {
+      "설명": "<p>Provides an LED showing vitals readouts. Can be linked to your HUD. Comes pre-installed in a Neuroport.</p>"
+    },
+    "Neuroport Cyberdeck Port": {
+      "설명": "<p>Allows the user to use a compatible cyberdeck in an action via the Neuroport. Compatible Cyberdecks are unable to accept hardware options.</p><p>Cyberdeck Range is increased to 20 m/yds (10 squares) when connecting to NET Architectures. Range of 50 m/yds (25 squares) When connecting to other Neuroports. Walls block access.</p><p>Cyberdeck must be purchased separately. Only one port may be installed.</p>"
+    },
+    "Neuroport Shard Slots": {
+      "설명": "<p>Two sockets for installation and removal of a piece of chipware. Comes installed in a Neuroport.</p>"
+    },
+    "Personal Link": {
+      "설명": "<p>Plugs in the wrist or head to allow you to connect to machines/systems hands-free. </p>"
+    },
+    "Power Rebuild": {
+      "설명": "<p>Power Rebuild from CEMK Rulebook Page 30</p><ul><li><p>Requires 2 attachments</p></li><li><p>Increases bonus critical damage by 5</p></li><li><p>Can ricochet shots at -4</p></li></ul>"
+    },
+    "Projectile Launch System": {
+      "설명": "<p><strong>Borgware.</strong> Concealeble One-Handed Grenade Launcher/Rocket Launcher. Can not use any attachments except for a Smart Rebuild. *When loaded with a rocket, it acts as a Rocket Launcher. *When loaded with grenades, it acts as a Grenade Launcher.</p><p>Can be drawn/stowed with an action.</p><p><em>*Modify the System's weapon stats to reflect the ammunition used.</em></p>"
+    },
+    "Rifle (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Rocket (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "RT-48 Burya": {
+      "설명": "<p>An Exotic very heavy pistol. It can't be concealed. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.SIHYBlDObA0XS9Ai]{Tech Rebuild}, which can be charged without a MOVE action. If fired by a user without Muscle & Bone Lace or a Cyberarm, the user gains the Broken Arm Critical Injury.</p>"
+    },
+    "Self-ICE": {
+      "설명": "<p>Adds a DV6 Passwall to the user's Neuroport to provide defense against Netrunners and Quickhacks. Can be installed multiple times, which improves the difficulty of bypassing to DV8 and DV10 upon a second and third installation. Further installations do nothing.</p><p></p>"
+    },
+    "Shotgun Shell (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Shotgun Slug (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Simple Quickhacks (DV6)": {
+      "설명": "<p>Netrunners in the 2070s gain access to Simple Quickhacks at Inferface 1. These do not need to be installed in a Cyberdeck, and are gained automatically. (see more information on Edgerunners Mission Kit Rule Book pg.16)</p>"
+    },
+    "Smart Rebuild": {
+      "설명": "<p>Smart Rebuild from CEMK Rulebook Page 31</p><ul><li><p>Incompatible with Smartgun Link</p></li><li><p>Requires 2 attachments</p></li><li><p>+1 to attack</p></li><li><p>Can be loaded with Improved Smart Ammunition</p></li></ul>"
+    },
+    "SPT32 Grad": {
+      "설명": "<p>An Exotic long-distance sniper rifle. Holds 4 bullets in a magazine. +1 to Attack. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.oBDXlMIn6eVkgwCk]{Power Rebuild}. Requires an action to work bolt after firing. Can load non-standard ammmunition.</p>"
+    },
+    "Standard Quickhacks (DV8)": {
+      "설명": "<p>Netrunners in the 2070s gain access to Standard Quickhacks at Inferface 2. These do not need to be installed in a Cyberdeck, and are gained automatically. (see more information on Edgerunners Mission Kit Rule Book pg.16)</p>"
+    },
+    "Tech Rebuild": {
+      "설명": "<p>Tech Rebuild from CEMK Rulebook Page 31</p><ul><li><p>Requires 2 attachment slots</p></li><li><p>Optics can see body outlines through thin cover</p></li><li><p>Charging costs move action</p></li><li><p>Fires through thin cover & ignores half target's SP rounded up</p></li></ul>"
+    },
+    "TKI-20 Shingen": {
+      "설명": "<p>An Exotic heavy SMG. Due to its size it can't be concealed. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.Nv5MkmCvzRrdl2rC]{Smart Rebuild}. Single-Shot expends 3 rounds. Deals 2d6 damage if there are less than 3 rounds in the magazine.</p>"
+    },
+    "Unity": {
+      "설명": "<p>An Exotic concealable, heavy pistol. Contains a @UUID[Compendium.edgerunners-mission-kit-v11.edgerunners-mission-kit.Item.oBDXlMIn6eVkgwCk]{Power Rebuild}. Deals 4d6 damage when performing an Aimed Shot.</p>"
+    },
+    "Very Heavy Pistol (Improved Smart)": {
+      "설명": "<p>Req Smart Weapon (does not include Smartgun Link). User ignores all visual penalites when using Improved Smart Ammunition. If an attack misses by 5 or less, replace your bonus with 14 You may still add luck.</p>"
+    },
+    "Virtu": {
+      "설명": "<p>Built-in virtuality goggles. Comes pre-installed into a Neuroport.</p>"
+    }
+  }
+}
