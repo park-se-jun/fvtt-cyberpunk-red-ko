@@ -26,6 +26,11 @@ customCSS 모듈로 폰트 크기를 조절하시거나 아래의 css 구문을 
 
 테스트한 사이버펑크 모듈 버전 - v0.88.2
 
+## 포함하고 있는 내용
+- [fvtt cyberpunk red](https://gitlab.com/cyberpunk-red-team/fvtt-cyberpunk-red-core) 시스템과 컴패니언에 대한 기계 번역
+- [fvtt cyberpunk red v0.88.2 에 대한 엣지러너 미션킷의 내용을 추가하는 모듈](https://discord.com/channels/1095235148821303297/1259683696458469450)의 컴패니언에 대한 기계 번역
+
+
 ## Credit
 
 [json-translator](https://github.com/mololab/json-translator) 를 사용해 기계번역 했습니다.
